@@ -4,32 +4,50 @@ import pandas as pd
 import os
 
 # Define the API endpoint and the JSON request payload
-url = 'https://andmed.stat.ee/api/v1/et/stat/KU091'
+url = 'https://andmed.stat.ee/api/v1/et/stat/KU109'
 payload = {
-    "query": [
-        {
-            "code": "Kategooria",
-            "selection": {
-                "filter": "item",
-                "values": ["1", "2", "3"]
-            }
-        },
-        {
-            "code": "Lavastuse liik / žanr",
-            "selection": {
-                "filter": "item",
-                "values": [
-                    "1", "2", "3", "4", "5", "6", "7", "8", "9", "10",
-                    "11", "12", "13", "14", "15", "16", "17", "18", "19",
-                    "20", "21", "22", "23", "24", "25", "26", "27", "28",
-                    "29", "30", "31"
-                ]
-            }
-        }
-    ],
-    "response": {
-        "format": "json-stat2"
+  "query": [
+    {
+      "code": "Aasta",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "2007",
+          "2008",
+          "2009",
+          "2010",
+          "2011",
+          "2012",
+          "2013",
+          "2014",
+          "2015",
+          "2016",
+          "2017",
+          "2018",
+          "2019",
+          "2020",
+          "2021",
+          "2022",
+          "2023"
+        ]
+      }
+    },
+    {
+      "code": "Sihtgrupp",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ]
+      }
     }
+  ],
+  "response": {
+    "format": "json-stat2"
+  }
 }
 
 # Send the POST request
@@ -48,7 +66,7 @@ if response.status_code == 200:
     df = pd.json_normalize(data)
 
     # Define the path to save the CSV file in the 'data/raw' directory
-    output_path = os.path.join("data", "raw", "theater_data2.csv")
+    output_path = os.path.join("data", "raw", "theater_data4.csv")
 
     # Create the 'data/raw' directory if it doesn't exist
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
