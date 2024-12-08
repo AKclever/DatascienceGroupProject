@@ -1,0 +1,1196 @@
+Aasta;Kategooria;Lavastuse liik / žanr;Lavastused;..uuslavastused;Etendused;..külalisetendused;Vaatajad, tuhat;Teatriskäigud 1000 elaniku kohta;Keskmine piletihind, eurot
+2007;Muud teatrid;..draama;27;8;347;148;35,60;26,50;9,20
+;Muud teatrid;..klassikaline tants;0;0;0;0;0;0;0
+;Muud teatrid;..komöödia;19;6;321;213;75,70;56,40;9,22
+;Muud teatrid;..muu lastelavastus;4;2;47;46;3,80;2,80;1,28
+;Muud teatrid;..muu muusikalavastus;3;1;19;2;3,70;2,70;21,65
+;Muud teatrid;..muu sõnalavastus;5;4;66;5;15,80;11,80;9,32
+;Muud teatrid;..muu tantsulavastus;3;1;40;10;1,70;1,30;8,85
+;Muud teatrid;..muusikal;0;0;0;0;0;0;0
+;Muud teatrid;..muusikalavastus lastele;0;0;0;0;0;0;0
+;Muud teatrid;..nukulavastus lastele;11;2;132;104;9,80;7,30;1,36
+;Muud teatrid;..nüüdistants;32;16;125;79;9,50;7,10;5,37
+;Muud teatrid;..ooper;2;2;11;0;4,30;3,20;15,55
+;Muud teatrid;..operett;0;0;0;0;0;0;0
+;Muud teatrid;..sõnalavastus lastele;17;6;248;188;25,60;19,10;2,44
+;Muud teatrid;..tantsulavastus lastele;2;0;16;6;1;0,80;1,60
+;Muud teatrid;..tragikomöödia;2;2;19;13;5;3,70;7,52
+;Muud teatrid;Kokku;135;54;1 462;867;210,30;156,80;7,85
+;Muud teatrid;Lastelavastus;34;10;443;344;40,10;29,90;2,03
+;Muud teatrid;Muu lavastus;8;4;71;53;19;14,10;6,67
+;Muud teatrid;Muusikalavastus;5;3;30;2;8;5,90;18,52
+;Muud teatrid;Sõnalavastus;53;20;753;379;132,10;98,50;9,16
+;Muud teatrid;Tantsulavastus;35;17;165;89;11,20;8,30;7,06
+;Riigi- ja linnateatrid;..draama;108;43;1 499;193;252,30;188,10;8,56
+;Riigi- ja linnateatrid;..klassikaline tants;9;4;71;2;34,10;25,40;8,99
+;Riigi- ja linnateatrid;..komöödia;36;15;497;95;152,10;113,40;7,59
+;Riigi- ja linnateatrid;..muu lastelavastus;3;1;19;3;9;6,70;4,04
+;Riigi- ja linnateatrid;..muu muusikalavastus;2;1;37;12;11,60;8,70;8,50
+;Riigi- ja linnateatrid;..muu sõnalavastus;8;4;69;11;9,50;7,10;6,01
+;Riigi- ja linnateatrid;..muu tantsulavastus;2;1;9;0;0,60;0,40;9,19
+;Riigi- ja linnateatrid;..muusikal;5;1;76;2;40;29,80;14,11
+;Riigi- ja linnateatrid;..muusikalavastus lastele;6;3;35;10;11,30;8,40;6,05
+;Riigi- ja linnateatrid;..nukulavastus lastele;18;3;243;31;85,40;63,60;3,37
+;Riigi- ja linnateatrid;..nüüdistants;10;5;54;9;8,20;6,10;5,36
+;Riigi- ja linnateatrid;..ooper;18;6;119;11;64,30;47,90;10,64
+;Riigi- ja linnateatrid;..operett;3;0;42;7;24;17,90;10,03
+;Riigi- ja linnateatrid;..sõnalavastus lastele;22;7;236;26;63;46,90;4,67
+;Riigi- ja linnateatrid;..tantsulavastus lastele;3;0;167;4;19,40;14,50;8,16
+;Riigi- ja linnateatrid;..tragikomöödia;9;2;101;23;22,70;16,90;5,88
+;Riigi- ja linnateatrid;Kokku;279;110;3 303;441;811,80;605;9,16
+;Riigi- ja linnateatrid;Lastelavastus;52;14;700;74;188;140,10;5,34
+;Riigi- ja linnateatrid;Muu lavastus;17;14;29;2;4,40;3,30;7,38
+;Riigi- ja linnateatrid;Muusikalavastus;28;8;274;32;139,90;104,20;11,44
+;Riigi- ja linnateatrid;Sõnalavastus;161;64;2 166;322;436,60;325,40;8,03
+;Riigi- ja linnateatrid;Tantsulavastus;21;10;134;11;42,90;32;8,35
+;Teatrid kokku;..draama;135;51;1 846;341;287,90;214,60;7,83
+;Teatrid kokku;..klassikaline tants;9;4;71;2;34,10;25,40;5,36
+;Teatrid kokku;..komöödia;55;21;818;308;227,80;169,80;8,47
+;Teatrid kokku;..muu lastelavastus;7;3;66;49;12,70;9,50;4,68
+;Teatrid kokku;..muu muusikalavastus;5;2;56;14;15,30;11,40;9,13
+;Teatrid kokku;..muu sõnalavastus;13;8;135;16;25,30;18,80;11,25
+;Teatrid kokku;..muu tantsulavastus;5;2;49;10;2,20;1,70;5,36
+;Teatrid kokku;..muusikal;5;1;76;2;40;29,80;8,50
+;Teatrid kokku;..muusikalavastus lastele;6;3;35;10;11,30;8,40;8,16
+;Teatrid kokku;..nukulavastus lastele;29;5;375;135;95,10;70,90;2,74
+;Teatrid kokku;..nüüdistants;42;21;179;88;17,70;13,20;6,34
+;Teatrid kokku;..ooper;20;8;130;11;68,60;51,10;10,69
+;Teatrid kokku;..operett;3;0;42;7;24;17,90;14,11
+;Teatrid kokku;..sõnalavastus lastele;39;13;484;214;88,60;66;5,36
+;Teatrid kokku;..tantsulavastus lastele;5;0;183;10;20,40;15,20;3,35
+;Teatrid kokku;..tragikomöödia;11;4;120;36;27,70;20,60;6,53
+;Teatrid kokku;Kokku;414;164;4 765;1 308;1 022,10;761,80;7,98
+;Teatrid kokku;Lastelavastus;86;24;1 143;418;228,10;170;3,77
+;Teatrid kokku;Muu lavastus;25;18;100;55;23,40;17,40;7,75
+;Teatrid kokku;Muusikalavastus;33;11;304;34;147,80;110,20;11,36
+;Teatrid kokku;Sõnalavastus;214;84;2 919;701;568,70;423,90;8,76
+;Teatrid kokku;Tantsulavastus;56;27;299;100;54,10;40,30;8,85
+2008;Muud teatrid;..draama;25;12;344;103;38,10;28,40;7,67
+;Muud teatrid;..klassikaline tants;0;0;0;0;0;0;0
+;Muud teatrid;..komöödia;17;5;293;224;60,30;45;8,71
+;Muud teatrid;..muu lastelavastus;7;5;67;44;4,60;3,40;2,19
+;Muud teatrid;..muu muusikalavastus;2;2;21;2;6;4,50;16,23
+;Muud teatrid;..muu sõnalavastus;2;1;25;6;5,70;4,30;0
+;Muud teatrid;..muu tantsulavastus;7;3;26;21;2,90;2,20;6,11
+;Muud teatrid;..muusikal;0;0;0;0;0;0;0
+;Muud teatrid;..muusikalavastus lastele;0;0;0;0;0;0;0
+;Muud teatrid;..nukulavastus lastele;8;1;151;139;13,50;10,10;1,95
+;Muud teatrid;..nüüdistants;29;16;120;76;11,30;8,40;0,03
+;Muud teatrid;..ooper;1;1;4;0;1,10;0,80;15,89
+;Muud teatrid;..operett;0;0;0;0;0;0;0
+;Muud teatrid;..sõnalavastus lastele;13;4;134;115;15;11,20;3,16
+;Muud teatrid;..tantsulavastus lastele;2;0;14;10;0,30;0,20;1,59
+;Muud teatrid;..tragikomöödia;3;2;83;44;17,30;12,90;11,22
+;Muud teatrid;Kokku;124;57;1 343;804;182,80;136,40;7,94
+;Muud teatrid;Lastelavastus;30;10;366;308;33,30;24,90;2,49
+;Muud teatrid;Muu lavastus;8;5;61;20;6,70;5;5,53
+;Muud teatrid;Muusikalavastus;3;3;25;2;7,10;5,30;16,20
+;Muud teatrid;Sõnalavastus;47;20;745;377;121,50;90,60;8,90
+;Muud teatrid;Tantsulavastus;36;19;146;97;14,20;10,60;6,91
+;Riigi- ja linnateatrid;..draama;118;44;1 377;213;262,40;195,70;9,67
+;Riigi- ja linnateatrid;..klassikaline tants;9;1;59;3;26,60;19,90;9,90
+;Riigi- ja linnateatrid;..komöödia;42;16;520;127;129,50;96,60;7,96
+;Riigi- ja linnateatrid;..muu lastelavastus;2;0;12;1;2,70;2;4,15
+;Riigi- ja linnateatrid;..muu muusikalavastus;3;1;33;10;28,30;21,10;15,63
+;Riigi- ja linnateatrid;..muu sõnalavastus;8;5;132;12;20,70;15,50;9,22
+;Riigi- ja linnateatrid;..muu tantsulavastus;0;0;0;0;0;0;0
+;Riigi- ja linnateatrid;..muusikal;4;1;44;4;22,40;16,70;11,34
+;Riigi- ja linnateatrid;..muusikalavastus lastele;6;3;93;8;37,20;27,80;6,27
+;Riigi- ja linnateatrid;..nukulavastus lastele;17;4;328;38;39,80;29,70;4,74
+;Riigi- ja linnateatrid;..nüüdistants;6;0;33;5;4,80;3,60;6,54
+;Riigi- ja linnateatrid;..ooper;15;3;111;2;47,90;35,70;11,75
+;Riigi- ja linnateatrid;..operett;4;2;59;0;37,50;28;15,49
+;Riigi- ja linnateatrid;..sõnalavastus lastele;22;9;303;47;86,30;64,30;4,99
+;Riigi- ja linnateatrid;..tantsulavastus lastele;5;3;52;2;30;22,30;7,82
+;Riigi- ja linnateatrid;..tragikomöödia;9;2;112;28;20,90;15,60;7,21
+;Riigi- ja linnateatrid;Kokku;276;100;3 292;500;800,30;596,90;9,01
+;Riigi- ja linnateatrid;Lastelavastus;52;19;788;96;195,90;146,10;5,63
+;Riigi- ja linnateatrid;Muu lavastus;6;6;24;0;3,30;2,40;11,31
+;Riigi- ja linnateatrid;Muusikalavastus;26;7;247;16;136,10;101,50;13,54
+;Riigi- ja linnateatrid;Sõnalavastus;177;67;2 141;380;433,50;323,40;9,01
+;Riigi- ja linnateatrid;Tantsulavastus;15;1;92;8;31,50;23,50;9,41
+;Teatrid kokku;..draama;143;56;1 721;316;300,50;224,10;9,46
+;Teatrid kokku;..klassikaline tants;9;1;59;3;26,60;19,90;9,90
+;Teatrid kokku;..komöödia;59;21;813;351;189,90;141,60;8,19
+;Teatrid kokku;..muu lastelavastus;9;5;79;45;7,30;5,50;3,13
+;Teatrid kokku;..muu muusikalavastus;5;3;54;12;34,30;25,60;15,72
+;Teatrid kokku;..muu sõnalavastus;10;6;157;18;26,40;19,70;9,57
+;Teatrid kokku;..muu tantsulavastus;7;3;26;21;2,90;2,20;6,11
+;Teatrid kokku;..muusikal;4;1;44;4;22,40;16,70;11,34
+;Teatrid kokku;..muusikalavastus lastele;6;3;93;8;37,20;27,80;6,27
+;Teatrid kokku;..nukulavastus lastele;25;5;479;177;53,20;39,70;3,98
+;Teatrid kokku;..nüüdistants;35;16;153;81;16,10;12;6,66
+;Teatrid kokku;..ooper;16;4;115;2;49;36,60;11,80
+;Teatrid kokku;..operett;4;2;59;0;37,50;28;15,49
+;Teatrid kokku;..sõnalavastus lastele;35;13;437;162;101,20;75,50;4,77
+;Teatrid kokku;..tantsulavastus lastele;7;3;66;12;30,20;22,60;7,81
+;Teatrid kokku;..tragikomöödia;12;4;195;72;38,30;28,50;9,05
+;Teatrid kokku;Kokku;400;157;4 635;1 304;983,10;733,30;8,83
+;Teatrid kokku;Lastelavastus;82;29;1 154;404;229,30;171;5,24
+;Teatrid kokku;Muu lavastus;14;11;85;20;10;7,50;8,72
+;Teatrid kokku;Muusikalavastus;29;10;272;18;143,20;106,80;13,65
+;Teatrid kokku;Sõnalavastus;224;87;2 886;757;555;414;8,99
+;Teatrid kokku;Tantsulavastus;51;20;238;105;45,60;34;9,28
+2009;Muud teatrid;..draama;31;15;306;70;26;19,40;7,83
+;Muud teatrid;..klassikaline tants;0;0;0;0;0;0;0
+;Muud teatrid;..komöödia;19;6;284;226;43,10;32,10;7,22
+;Muud teatrid;..muu lastelavastus;7;6;71;65;8;5,90;1,59
+;Muud teatrid;..muu muusikalavastus;5;2;34;2;3,50;2,60;9,16
+;Muud teatrid;..muu sõnalavastus;2;1;18;18;7,80;5,80;8,72
+;Muud teatrid;..muu tantsulavastus;3;1;16;9;1,70;1,30;0
+;Muud teatrid;..muusikal;0;0;0;0;0;0;0
+;Muud teatrid;..muusikalavastus lastele;0;0;0;0;0;0;0
+;Muud teatrid;..nukulavastus lastele;6;1;195;195;15,50;11,60;2,08
+;Muud teatrid;..nüüdistants;23;11;119;64;10,30;7,70;5,80
+;Muud teatrid;..ooper;1;1;9;0;1;0,70;6,47
+;Muud teatrid;..operett;0;0;0;0;0;0;0
+;Muud teatrid;..sõnalavastus lastele;6;2;63;44;8,50;6,30;3,94
+;Muud teatrid;..tantsulavastus lastele;1;1;8;4;0,30;0,30;3,21
+;Muud teatrid;..tragikomöödia;4;2;57;22;7,10;5,30;10,03
+;Muud teatrid;Kokku;115;54;1 218;732;135,60;101,20;6,37
+;Muud teatrid;Lastelavastus;20;10;337;308;32,30;24,10;2,45
+;Muud teatrid;Muu lavastus;7;5;38;13;2,70;2;7,22
+;Muud teatrid;Muusikalavastus;6;3;43;2;4,50;3,40;8,74
+;Muud teatrid;Sõnalavastus;56;24;665;336;84;62,70;7,77
+;Muud teatrid;Tantsulavastus;26;12;135;73;12;9;5,80
+;Riigi- ja linnateatrid;..draama;109;43;1 411;127;237,70;177,30;9,35
+;Riigi- ja linnateatrid;..klassikaline tants;10;3;67;2;29,60;22,10;9,02
+;Riigi- ja linnateatrid;..komöödia;42;13;585;100;140,50;104,80;8,35
+;Riigi- ja linnateatrid;..muu lastelavastus;2;1;9;0;3,30;2,40;5,46
+;Riigi- ja linnateatrid;..muu muusikalavastus;6;5;70;8;23,80;17,80;9,43
+;Riigi- ja linnateatrid;..muu sõnalavastus;6;1;80;8;11,30;8,40;8,67
+;Riigi- ja linnateatrid;..muu tantsulavastus;1;0;2;0;0,60;0,40;8,81
+;Riigi- ja linnateatrid;..muusikal;4;2;29;0;23,80;17,70;16
+;Riigi- ja linnateatrid;..muusikalavastus lastele;5;1;96;15;37,90;28,30;8,08
+;Riigi- ja linnateatrid;..nukulavastus lastele;34;6;488;42;34,40;25,70;4,08
+;Riigi- ja linnateatrid;..nüüdistants;4;2;38;10;4,50;3,30;6,35
+;Riigi- ja linnateatrid;..ooper;19;5;110;2;41,10;30,70;10,60
+;Riigi- ja linnateatrid;..operett;3;0;56;0;29;21,70;15,33
+;Riigi- ja linnateatrid;..sõnalavastus lastele;26;14;354;62;91,10;68;5,29
+;Riigi- ja linnateatrid;..tantsulavastus lastele;5;0;43;2;19;14,20;7,06
+;Riigi- ja linnateatrid;..tragikomöödia;6;0;58;15;9,40;7;6,27
+;Riigi- ja linnateatrid;Kokku;286;99;3 513;393;738,20;550,80;8,74
+;Riigi- ja linnateatrid;Lastelavastus;72;22;990;121;185,70;138,60;5,85
+;Riigi- ja linnateatrid;Muu lavastus;4;3;17;0;1,30;1;10,19
+;Riigi- ja linnateatrid;Muusikalavastus;32;12;265;10;117,80;87,90;12,68
+;Riigi- ja linnateatrid;Sõnalavastus;163;57;2 134;250;398,80;297,60;8,90
+;Riigi- ja linnateatrid;Tantsulavastus;15;5;107;12;34,60;25,90;8,74
+;Teatrid kokku;..draama;140;58;1 717;197;263,70;196,70;9,23
+;Teatrid kokku;..klassikaline tants;10;3;67;2;29,60;22,10;9,02
+;Teatrid kokku;..komöödia;61;19;869;326;183,50;136,90;8,09
+;Teatrid kokku;..muu lastelavastus;9;7;80;65;11,20;8,40;2,84
+;Teatrid kokku;..muu muusikalavastus;11;7;104;10;27,40;20,40;9,40
+;Teatrid kokku;..muu sõnalavastus;8;2;98;26;19,10;14,20;8,69
+;Teatrid kokku;..muu tantsulavastus;4;1;18;9;2,30;1,70;8,81
+;Teatrid kokku;..muusikal;4;2;29;0;23,80;17,70;16
+;Teatrid kokku;..muusikalavastus lastele;5;1;96;15;37,90;28,30;8,08
+;Teatrid kokku;..nukulavastus lastele;40;7;683;237;50;37,30;3,44
+;Teatrid kokku;..nüüdistants;27;13;157;74;14,80;11;6,15
+;Teatrid kokku;..ooper;20;6;119;2;42,10;31,40;10,54
+;Teatrid kokku;..operett;3;0;56;0;29;21,70;15,33
+;Teatrid kokku;..sõnalavastus lastele;32;16;417;106;99,60;74,30;5,18
+;Teatrid kokku;..tantsulavastus lastele;6;1;51;6;19,30;14,40;7,05
+;Teatrid kokku;..tragikomöödia;10;2;115;37;16,50;12,30;7,85
+;Teatrid kokku;Kokku;401;153;4 731;1 125;873,80;652;8,42
+;Teatrid kokku;Lastelavastus;92;32;1 327;429;218;162,70;5,39
+;Teatrid kokku;Muu lavastus;11;8;55;13;4;3;9,29
+;Teatrid kokku;Muusikalavastus;38;15;308;12;122,30;91,20;12,55
+;Teatrid kokku;Sõnalavastus;219;81;2 799;586;482,80;360,20;8,72
+;Teatrid kokku;Tantsulavastus;41;17;242;85;46,70;34,80;8,58
+2010;Muud teatrid;..draama;46;26;493;100;41,80;31,20;8,14
+;Muud teatrid;..klassikaline tants;0;0;0;0;0;0;0
+;Muud teatrid;..komöödia;16;5;160;150;25;18,60;7,93
+;Muud teatrid;..muu lastelavastus;5;3;142;125;10,80;8;1,47
+;Muud teatrid;..muu muusikalavastus;7;2;31;7;13,70;10,20;13,60
+;Muud teatrid;..muu sõnalavastus;5;3;50;33;7,70;5,70;8,67
+;Muud teatrid;..muu tantsulavastus;1;0;2;2;0,30;0,20;0
+;Muud teatrid;..muusikal;1;1;3;0;0,10;0,10;4,77
+;Muud teatrid;..muusikalavastus lastele;0;0;0;0;0;0;0
+;Muud teatrid;..nukulavastus lastele;6;1;166;163;14,30;10,60;1,84
+;Muud teatrid;..nüüdistants;29;19;123;62;16,20;12,10;5,22
+;Muud teatrid;..ooper;0;0;0;0;0;0;0
+;Muud teatrid;..operett;0;0;0;0;0;0;0
+;Muud teatrid;..sõnalavastus lastele;8;4;95;72;10,30;7,70;3,51
+;Muud teatrid;..tantsulavastus lastele;3;2;27;6;1;0,70;2,70
+;Muud teatrid;..tragikomöödia;3;0;13;10;1,50;1,10;8,35
+;Muud teatrid;Kokku;138;70;1 346;742;146,10;109;6,58
+;Muud teatrid;Lastelavastus;22;10;430;366;36,30;27,10;2,21
+;Muud teatrid;Muu lavastus;8;4;41;12;3,40;2,60;4,46
+;Muud teatrid;Muusikalavastus;8;3;34;7;13,80;10,30;13,56
+;Muud teatrid;Sõnalavastus;70;34;716;293;76;56,70;8,11
+;Muud teatrid;Tantsulavastus;30;19;125;64;16,50;12,30;5,22
+;Riigi- ja linnateatrid;..draama;111;41;1 272;137;199,50;148,80;8,90
+;Riigi- ja linnateatrid;..klassikaline tants;10;3;76;5;29,30;21,80;8,57
+;Riigi- ja linnateatrid;..komöödia;47;17;620;97;150,60;112,40;8,40
+;Riigi- ja linnateatrid;..muu lastelavastus;1;0;5;0;2,60;2;4,04
+;Riigi- ja linnateatrid;..muu muusikalavastus;2;0;20;1;4,90;3,70;7,29
+;Riigi- ja linnateatrid;..muu sõnalavastus;8;4;67;5;6,20;4,60;7,25
+;Riigi- ja linnateatrid;..muu tantsulavastus;0;0;0;0;0;0;0
+;Riigi- ja linnateatrid;..muusikal;6;2;109;9;66,90;49,90;12,29
+;Riigi- ja linnateatrid;..muusikalavastus lastele;5;3;103;23;41,40;30,90;8,35
+;Riigi- ja linnateatrid;..nukulavastus lastele;17;3;239;45;27,70;20,70;3,10
+;Riigi- ja linnateatrid;..nüüdistants;1;1;11;0;1;0,70;3,60
+;Riigi- ja linnateatrid;..ooper;16;3;93;5;37,50;28;11,04
+;Riigi- ja linnateatrid;..operett;6;3;72;4;36,90;27,50;14,49
+;Riigi- ja linnateatrid;..sõnalavastus lastele;34;16;459;72;111,80;83,40;5,17
+;Riigi- ja linnateatrid;..tantsulavastus lastele;5;2;40;1;21;15,70;7,03
+;Riigi- ja linnateatrid;..tragikomöödia;7;3;55;8;15,30;11,40;8,28
+;Riigi- ja linnateatrid;Kokku;279;103;3 247;416;753,80;562,50;8,28
+;Riigi- ja linnateatrid;Lastelavastus;62;24;846;141;204,50;152,60;5,73
+;Riigi- ja linnateatrid;Muu lavastus;3;2;6;4;1,30;0,90;9,57
+;Riigi- ja linnateatrid;Muusikalavastus;30;8;294;19;146,20;109,10;12,37
+;Riigi- ja linnateatrid;Sõnalavastus;173;65;2 014;247;371,60;277,30;8,64
+;Riigi- ja linnateatrid;Tantsulavastus;11;4;87;5;30,20;22,60;8,41
+;Teatrid kokku;..draama;157;67;1 765;237;241,20;180;8,80
+;Teatrid kokku;..klassikaline tants;10;3;76;5;29,30;21,80;8,57
+;Teatrid kokku;..komöödia;63;22;780;247;175,60;131;8,33
+;Teatrid kokku;..muu lastelavastus;6;3;147;125;13,40;10;2,02
+;Teatrid kokku;..muu muusikalavastus;9;2;51;8;18,60;13,90;11,02
+;Teatrid kokku;..muu sõnalavastus;13;7;117;38;13,90;10,40;7,94
+;Teatrid kokku;..muu tantsulavastus;1;0;2;2;0,30;0,20;0
+;Teatrid kokku;..muusikal;7;3;112;9;66,90;49,90;12,28
+;Teatrid kokku;..muusikalavastus lastele;5;3;103;23;41,40;30,90;8,35
+;Teatrid kokku;..nukulavastus lastele;23;4;405;208;42;31,30;2,70
+;Teatrid kokku;..nüüdistants;30;20;134;62;17,20;12,80;4,76
+;Teatrid kokku;..ooper;16;3;93;5;37,50;28;11,04
+;Teatrid kokku;..operett;6;3;72;4;36,90;27,50;14,49
+;Teatrid kokku;..sõnalavastus lastele;42;20;554;144;122,10;91,10;5,04
+;Teatrid kokku;..tantsulavastus lastele;8;4;67;7;22;16,40;6,93
+;Teatrid kokku;..tragikomöödia;10;3;68;18;16,90;12,60;8,28
+;Teatrid kokku;Kokku;417;173;4 593;1 158;899,90;671,50;8,06
+;Teatrid kokku;Lastelavastus;84;34;1 276;507;240,90;179,70;5,25
+;Teatrid kokku;Muu lavastus;11;6;47;16;4,70;3,50;7,61
+;Teatrid kokku;Muusikalavastus;38;11;328;26;160;119,40;12,45
+;Teatrid kokku;Sõnalavastus;243;99;2 730;540;447,60;334;8,56
+;Teatrid kokku;Tantsulavastus;41;23;212;69;46,80;34,90;8,17
+2011;Muud teatrid;..draama;76;30;716;198;71,50;53,40;8,59
+;Muud teatrid;..klassikaline tants;1;1;3;0;0,30;0,20;22,09
+;Muud teatrid;..komöödia;20;9;311;264;50,40;37,60;9,12
+;Muud teatrid;..muu muusikalavastus;4;2;14;6;2,30;1,70;11,67
+;Muud teatrid;..muu sõnalavastus;2;0;11;1;0,20;0,10;8,22
+;Muud teatrid;..muu tantsulavastus;1;1;4;0;0,40;0,30;0
+;Muud teatrid;..muusika- ja liikumislavastus;0;0;0;0;0;0;0
+;Muud teatrid;..muusikal;4;3;38;2;5,90;4,40;17,18
+;Muud teatrid;..nuku- ja objektiteatri lavastus;0;0;0;0;0;0;0
+;Muud teatrid;..nukulavastus;7;2;152;132;12,60;9,40;1,96
+;Muud teatrid;..nüüdistants;34;17;189;85;15,60;11,60;3,82
+;Muud teatrid;..objektiteatri lavastus;3;2;25;0;0,70;0,50;0
+;Muud teatrid;..ooper;2;2;4;0;1;0,70;9,78
+;Muud teatrid;..operett;0;0;0;0;0;0;0
+;Muud teatrid;..sõna-, muusika- ja liikumislavastus;4;2;79;55;9,20;6,90;15,26
+;Muud teatrid;..tragikomöödia;2;2;28;14;2,40;1,80;6,86
+;Muud teatrid;Kokku;163;75;1 595;759;174,50;130,20;8,71
+;Muud teatrid;Mitmeliigilavastus;4;2;79;55;9,20;6,90;15,26
+;Muud teatrid;Muu lavastus;3;2;21;2;2;1,50;12,42
+;Muud teatrid;Muusikalavastus;10;7;56;8;9,20;6,90;14,34
+;Muud teatrid;Nuku- ja objektiteatri lavastus;10;4;177;132;13,30;9,90;1,96
+;Muud teatrid;Sõnalavastus;100;41;1 066;477;124,50;92,90;8,79
+;Muud teatrid;Tantsulavastus;36;19;196;85;16,30;12,20;4,72
+;Riigi- ja linnateatrid;..draama;143;57;1 694;245;340,80;254,30;8,34
+;Riigi- ja linnateatrid;..klassikaline tants;16;5;109;8;54,50;40,60;9,16
+;Riigi- ja linnateatrid;..komöödia;51;13;620;96;168,20;125,50;8,44
+;Riigi- ja linnateatrid;..muu muusikalavastus;5;3;21;2;4,60;3,40;6,83
+;Riigi- ja linnateatrid;..muu sõnalavastus;2;0;13;0;0,80;0,60;6,96
+;Riigi- ja linnateatrid;..muu tantsulavastus;0;0;0;0;0;0;0
+;Riigi- ja linnateatrid;..muusika- ja liikumislavastus;1;1;10;0;0,40;0,30;7,44
+;Riigi- ja linnateatrid;..muusikal;12;4;177;15;83,50;62,30;8,42
+;Riigi- ja linnateatrid;..nuku- ja objektiteatri lavastus;4;3;80;6;6,70;5;4,57
+;Riigi- ja linnateatrid;..nukulavastus;19;5;284;72;31,50;23,50;4,56
+;Riigi- ja linnateatrid;..nüüdistants;6;6;66;10;23,30;17,40;7,18
+;Riigi- ja linnateatrid;..objektiteatri lavastus;0;0;0;0;0;0;0
+;Riigi- ja linnateatrid;..ooper;20;7;121;13;48,90;36,50;12,71
+;Riigi- ja linnateatrid;..operett;5;1;59;4;36,20;27;13,91
+;Riigi- ja linnateatrid;..sõna-, muusika- ja liikumislavastus;4;4;29;6;4,70;3,50;7,07
+;Riigi- ja linnateatrid;..tragikomöödia;13;6;134;27;29,90;22,30;7,50
+;Riigi- ja linnateatrid;Kokku;301;115;3 417;504;833,80;622,30;8,78
+;Riigi- ja linnateatrid;Mitmeliigilavastus;5;5;39;6;5,10;3,80;7,11
+;Riigi- ja linnateatrid;Muu lavastus;0;0;0;0;0;0;0
+;Riigi- ja linnateatrid;Muusikalavastus;42;15;378;34;173,10;129,20;11,43
+;Riigi- ja linnateatrid;Nuku- ja objektiteatri lavastus;23;8;364;78;38,20;28,50;4,56
+;Riigi- ja linnateatrid;Sõnalavastus;209;76;2 461;368;539,60;402,70;8,32
+;Riigi- ja linnateatrid;Tantsulavastus;22;11;175;18;77,80;58,10;9,05
+;Teatrid kokku;..draama;219;87;2 410;443;412,30;307,70;8,37
+;Teatrid kokku;..klassikaline tants;17;6;112;8;54,70;40,80;9,20
+;Teatrid kokku;..komöödia;71;22;931;360;218,60;163,10;8,58
+;Teatrid kokku;..muu muusikalavastus;9;5;35;8;6,90;5,10;8,74
+;Teatrid kokku;..muu sõnalavastus;4;0;24;1;1;0,70;7,11
+;Teatrid kokku;..muu tantsulavastus;1;1;4;0;0,40;0,30;0
+;Teatrid kokku;..muusika- ja liikumislavastus;1;1;10;0;0,40;0,30;7,44
+;Teatrid kokku;..muusikal;16;7;215;17;89,30;66,70;9,15
+;Teatrid kokku;..nuku- ja objektiteatri lavastus;4;3;80;6;6,70;5;4,57
+;Teatrid kokku;..nukulavastus;26;7;436;204;44,10;32,90;3,58
+;Teatrid kokku;..nüüdistants;40;23;255;95;38,90;29,10;5,47
+;Teatrid kokku;..objektiteatri lavastus;3;2;25;0;0,70;0,50;0
+;Teatrid kokku;..ooper;22;9;125;13;49,90;37,20;12,68
+;Teatrid kokku;..operett;5;1;59;4;36,20;27;13,91
+;Teatrid kokku;..sõna-, muusika- ja liikumislavastus;8;6;108;61;13,90;10,40;11,67
+;Teatrid kokku;..tragikomöödia;15;8;162;41;32,30;24,10;7,46
+;Teatrid kokku;Kokku;464;190;5 012;1 263;1 008,30;752,50;8,77
+;Teatrid kokku;Mitmeliigilavastus;9;7;118;61;14,40;10,70;11,48
+;Teatrid kokku;Muu lavastus;3;2;21;2;2;1,50;12,42
+;Teatrid kokku;Muusikalavastus;52;22;434;42;182,30;136;11,59
+;Teatrid kokku;Nuku- ja objektiteatri lavastus;33;12;541;210;51,50;38,40;3,75
+;Teatrid kokku;Sõnalavastus;309;117;3 527;845;664,10;495,60;8,40
+;Teatrid kokku;Tantsulavastus;58;30;371;103;94,10;70,20;8,82
+2012;Muud teatrid;..draama;67;27;760;..;72,90;164,90;..
+;Muud teatrid;..klassikaline tants;0;0;0;..;0;3;..
+;Muud teatrid;..komöödia;27;12;377;..;70,10;115,40;..
+;Muud teatrid;..muu muusikalavastus;3;0;19;..;3,90;0;..
+;Muud teatrid;..muu sõnalavastus;2;1;18;..;0,70;54,30;..
+;Muud teatrid;..muu tantsulavastus;3;2;9;..;1;0;..
+;Muud teatrid;..muusika- ja liikumislavastus;..;..;..;..;0,80;15,80;..
+;Muud teatrid;..muusikal;1;0;3;..;1,10;0;..
+;Muud teatrid;..nuku- ja objektiteatri lavastus;..;..;..;..;0,60;12;..
+;Muud teatrid;..nukulavastus;..;..;..;..;15,60;..;..
+;Muud teatrid;..nüüdistants;23;14;110;..;8,50;7,30;..
+;Muud teatrid;..objektiteatri lavastus;..;..;..;..;0,30;12,80;..
+;Muud teatrid;..ooper;0;0;0;..;0;0,50;..
+;Muud teatrid;..operett;0;0;0;..;0;3,90;..
+;Muud teatrid;..sõna-, muusika- ja liikumislavastus;..;..;..;..;17,60;0,50;..
+;Muud teatrid;..sõnalavastus lastele;..;..;..;..;..;0,80;..
+;Muud teatrid;..tragikomöödia;6;4;43;..;5,30;56,50;..
+;Muud teatrid;Kokku;173;89;1 936;964;212,70;27,60;8,90
+;Muud teatrid;Lastelavastus;..;..;..;..;..;6,60;..
+;Muud teatrid;Mitmeliigilavastus;28;23;305;119;20,40;0,20;7,23
+;Muud teatrid;Muu lavastus;2;1;90;83;12,40;13,70;..
+;Muud teatrid;Muusikalavastus;4;0;22;12;5;4,10;10,48
+;Muud teatrid;Nuku- ja objektiteatri lavastus;11;5;202;162;16,50;..;3,75
+;Muud teatrid;Sõnalavastus;102;44;1 198;519;149;0;9,40
+;Muud teatrid;Tantsulavastus;26;16;119;69;9,50;0,80;5
+;Riigi- ja linnateatrid;..draama;154;63;1 877;..;342,90;406,50;..
+;Riigi- ja linnateatrid;..klassikaline tants;14;3;118;..;69,70;63,60;..
+;Riigi- ja linnateatrid;..komöödia;46;13;596;..;163,20;265,70;..
+;Riigi- ja linnateatrid;..muu muusikalavastus;4;2;27;..;16,70;103;..
+;Riigi- ja linnateatrid;..muu sõnalavastus;2;0;8;..;0,50;14;..
+;Riigi- ja linnateatrid;..muu tantsulavastus;0;0;0;..;4,10;6,50;..
+;Riigi- ja linnateatrid;..muusika- ja liikumislavastus;..;..;..;..;7,50;11,60;..
+;Riigi- ja linnateatrid;..muusikal;12;6;236;..;133;16,40;..
+;Riigi- ja linnateatrid;..nuku- ja objektiteatri lavastus;..;..;..;..;9;0;..
+;Riigi- ja linnateatrid;..nukulavastus;..;..;..;..;42,70;40,10;..
+;Riigi- ja linnateatrid;..nüüdistants;12;10;63;..;8,30;54;..
+;Riigi- ja linnateatrid;..objektiteatri lavastus;..;..;..;..;0;33,10;..
+;Riigi- ja linnateatrid;..ooper;18;3;97;..;44,20;166,60;..
+;Riigi- ja linnateatrid;..operett;4;0;38;..;21,20;34,20;..
+;Riigi- ja linnateatrid;..sõna-, muusika- ja liikumislavastus;..;..;..;..;15;45;..
+;Riigi- ja linnateatrid;..tragikomöödia;13;2;111;..;18;126,40;..
+;Riigi- ja linnateatrid;Kokku;314;114;3 742;569;931,40;9,60;8,95
+;Riigi- ja linnateatrid;Lastelavastus;..;..;..;..;..;3,20;..
+;Riigi- ja linnateatrid;Mitmeliigilavastus;12;9;190;8;58,10;7;6,84
+;Riigi- ja linnateatrid;Muu lavastus;0;0;0;0;0;5,80;..
+;Riigi- ja linnateatrid;Muusikalavastus;38;11;398;32;215;0,40;9,75
+;Riigi- ja linnateatrid;Nuku- ja objektiteatri lavastus;23;3;381;25;51,70;..;5,10
+;Riigi- ja linnateatrid;Sõnalavastus;215;78;2 592;483;524,50;721,80;8,32
+;Riigi- ja linnateatrid;Tantsulavastus;26;13;181;21;82,10;13;7,15
+;Teatrid kokku;..draama;221;90;2 637;..;415,80;322,20;..
+;Teatrid kokku;..klassikaline tants;14;3;118;..;69,70;54;..
+;Teatrid kokku;..komöödia;73;25;973;..;233,30;180,80;..
+;Teatrid kokku;..muu muusikalavastus;7;2;46;..;20,70;16;..
+;Teatrid kokku;..muu sõnalavastus;4;1;26;..;1,20;0,90;..
+;Teatrid kokku;..muu tantsulavastus;3;2;9;..;5,10;4;..
+;Teatrid kokku;..muusika- ja liikumislavastus;..;..;..;..;8,20;6,40;..
+;Teatrid kokku;..muusikal;13;6;239;..;134;103,90;..
+;Teatrid kokku;..nuku- ja objektiteatri lavastus;..;..;..;..;9,60;7,50;..
+;Teatrid kokku;..nukulavastus;..;..;..;..;58,30;45,20;..
+;Teatrid kokku;..nüüdistants;35;24;173;..;16,80;13;..
+;Teatrid kokku;..objektiteatri lavastus;..;..;..;..;0,30;0,20;..
+;Teatrid kokku;..ooper;18;3;97;..;44,20;34,20;..
+;Teatrid kokku;..operett;4;0;38;..;21,20;16,40;..
+;Teatrid kokku;..sõna-, muusika- ja liikumislavastus;..;..;..;..;32,60;25,30;..
+;Teatrid kokku;..tragikomöödia;19;6;154;..;23,30;18,10;..
+;Teatrid kokku;Kokku;487;203;5 678;1 533;1 143;885,70;10,13
+;Teatrid kokku;Mitmeliigilavastus;40;32;495;127;78,50;60,80;6,03
+;Teatrid kokku;Muu lavastus;2;1;90;83;12,40;29,20;..
+;Teatrid kokku;Muusikalavastus;42;11;420;44;220,10;170,50;10,75
+;Teatrid kokku;Nuku- ja objektiteatri lavastus;34;8;583;187;68,20;52,90;4,47
+;Teatrid kokku;Sõnalavastus;317;122;3 790;1 002;673,50;521,90;9,03
+;Teatrid kokku;Tantsulavastus;52;29;300;90;91,60;71;9,30
+2013;Muud teatrid;..draama;58;22;614;..;66,20;50,20;..
+;Muud teatrid;..klassikaline tants;0;0;0;..;0;0;..
+;Muud teatrid;..komöödia;31;15;519;..;92,20;70;..
+;Muud teatrid;..muu;8;5;50;..;4,30;3,30;..
+;Muud teatrid;..muu muusikalavastus;2;0;4;..;0,50;0,40;..
+;Muud teatrid;..muu sõnalavastus;3;0;26;..;2,90;2,20;..
+;Muud teatrid;..muu tantsulavastus;1;0;5;..;0,50;0,40;..
+;Muud teatrid;..muusika- ja liikumislavastus;2;1;2;..;0,30;0,20;..
+;Muud teatrid;..muusikal;0;0;0;..;0;0;..
+;Muud teatrid;..nuku- ja objektiteatri lavastus;1;1;68;..;4,50;3,40;..
+;Muud teatrid;..nukulavastus;10;2;224;..;17,50;13,30;..
+;Muud teatrid;..nüüdistants;36;18;180;..;17,10;13;..
+;Muud teatrid;..objektiteatri lavastus;1;0;4;..;0,20;0,20;..
+;Muud teatrid;..ooper;1;1;4;..;0,90;0,70;..
+;Muud teatrid;..operett;0;0;0;..;0;0;..
+;Muud teatrid;..sõna-, muusika- ja liikumislavastus;29;17;244;..;17,90;13,60;..
+;Muud teatrid;..tragikomöödia;7;5;97;..;13,70;10,40;..
+;Muud teatrid;Kokku;192;88;2 196;1 145;256,40;194,60;8,07
+;Muud teatrid;Mitmeliigilavastus;39;23;296;92;22,60;17,10;7,20
+;Muud teatrid;Muu lavastus;2;0;146;87;17,70;13,40;0
+;Muud teatrid;Muusikalavastus;3;1;8;4;1,50;1,10;9,38
+;Muud teatrid;Nuku- ja objektiteatri lavastus;12;3;296;248;22,20;16,90;3,77
+;Muud teatrid;Sõnalavastus;99;42;1 256;626;174,90;132,70;7,59
+;Muud teatrid;Tantsulavastus;37;18;185;88;17,60;13,30;4,94
+;Riigi- ja linnateatrid;..draama;144;47;1 820;..;304,50;231,10;..
+;Riigi- ja linnateatrid;..klassikaline tants;16;5;111;..;65,40;49,60;..
+;Riigi- ja linnateatrid;..komöödia;45;15;584;..;148,30;112,50;..
+;Riigi- ja linnateatrid;..muu;1;0;20;..;11,40;8,70;..
+;Riigi- ja linnateatrid;..muu muusikalavastus;2;0;45;..;17;12,90;..
+;Riigi- ja linnateatrid;..muu sõnalavastus;2;2;37;..;2;1,50;..
+;Riigi- ja linnateatrid;..muu tantsulavastus;0;0;0;..;0;0;..
+;Riigi- ja linnateatrid;..muusika- ja liikumislavastus;4;2;44;..;18,60;14,10;..
+;Riigi- ja linnateatrid;..muusikal;13;4;206;..;124,40;94,40;..
+;Riigi- ja linnateatrid;..nuku- ja objektiteatri lavastus;4;0;52;..;5,30;4;..
+;Riigi- ja linnateatrid;..nukulavastus;17;5;290;..;27,30;20,70;..
+;Riigi- ja linnateatrid;..nüüdistants;5;3;31;..;5,90;4,40;..
+;Riigi- ja linnateatrid;..objektiteatri lavastus;1;1;4;..;0,20;0,10;..
+;Riigi- ja linnateatrid;..ooper;18;6;110;..;57,80;43,90;..
+;Riigi- ja linnateatrid;..operett;3;0;24;..;13,30;10,10;..
+;Riigi- ja linnateatrid;..sõna-, muusika- ja liikumislavastus;9;4;116;..;19,30;14,60;..
+;Riigi- ja linnateatrid;..tragikomöödia;14;4;113;..;13,60;10,40;..
+;Riigi- ja linnateatrid;Kokku;298;98;3 607;543;834,30;633;9,41
+;Riigi- ja linnateatrid;Mitmeliigilavastus;14;6;180;41;49,30;37,40;7,65
+;Riigi- ja linnateatrid;Muu lavastus;0;0;0;0;0;0;0
+;Riigi- ja linnateatrid;Muusikalavastus;36;10;385;38;212,50;161,20;10,30
+;Riigi- ja linnateatrid;Nuku- ja objektiteatri lavastus;22;6;346;41;32,80;24,90;9,97
+;Riigi- ja linnateatrid;Sõnalavastus;205;68;2 554;413;468,50;355,40;9,11
+;Riigi- ja linnateatrid;Tantsulavastus;21;8;142;10;71,30;54,10;7,70
+;Teatrid kokku;..draama;202;69;2 434;..;370,70;281,30;..
+;Teatrid kokku;..klassikaline tants;16;5;111;..;65,40;49,60;..
+;Teatrid kokku;..komöödia;76;30;1 103;..;240,50;182,50;..
+;Teatrid kokku;..muu;9;5;70;..;15,80;12;..
+;Teatrid kokku;..muu muusikalavastus;4;0;49;..;17,50;13,30;..
+;Teatrid kokku;..muu sõnalavastus;5;3;72;..;4,80;3,70;..
+;Teatrid kokku;..muu tantsulavastus;1;0;5;..;0,50;0,40;..
+;Teatrid kokku;..muusika- ja liikumislavastus;6;3;46;..;18,90;14,30;..
+;Teatrid kokku;..muusikal;13;4;206;..;124,40;94,40;..
+;Teatrid kokku;..nuku- ja objektiteatri lavastus;5;1;120;..;9,80;7,40;..
+;Teatrid kokku;..nukulavastus;27;7;514;..;44,80;34;..
+;Teatrid kokku;..nüüdistants;41;21;211;..;23;17,40;..
+;Teatrid kokku;..objektiteatri lavastus;2;1;8;..;0,40;0,30;..
+;Teatrid kokku;..ooper;19;7;114;..;58,80;44,60;..
+;Teatrid kokku;..operett;3;0;24;..;13,30;10,10;..
+;Teatrid kokku;..sõna-, muusika- ja liikumislavastus;38;21;360;..;37,20;28,20;..
+;Teatrid kokku;..tragikomöödia;21;9;210;..;27,30;20,70;..
+;Teatrid kokku;Kokku;490;186;5 803;1 688;1 090,70;827,50;10,53
+;Teatrid kokku;Mitmeliigilavastus;53;29;476;133;71,80;54,50;9,19
+;Teatrid kokku;Muu lavastus;2;0;146;87;17,70;13,40;..
+;Teatrid kokku;Muusikalavastus;39;11;393;42;213,90;162,30;11,85
+;Teatrid kokku;Nuku- ja objektiteatri lavastus;34;9;642;289;55;41,80;4,41
+;Teatrid kokku;Sõnalavastus;310;117;3 828;1 039;643,40;488,10;9,45
+;Teatrid kokku;Tantsulavastus;58;26;327;98;88,90;67,40;9,85
+2014;Muud teatrid;..draama;76;30;765;..;79,90;60,80;..
+;Muud teatrid;..klassikaline tants;0;0;0;..;0;0;..
+;Muud teatrid;..komöödia;29;13;477;..;52,30;39,80;..
+;Muud teatrid;..muu;14;9;115;..;6,50;4,90;..
+;Muud teatrid;..muu muusikalavastus;1;0;3;..;0,40;0,30;..
+;Muud teatrid;..muu sõnalavastus;0;0;0;..;0;0;..
+;Muud teatrid;..muu tantsulavastus;0;0;0;..;0;0;..
+;Muud teatrid;..muusika- ja liikumislavastus;6;5;45;..;4,80;3,60;..
+;Muud teatrid;..muusikal;0;0;0;..;0;0;..
+;Muud teatrid;..nuku- ja objektiteatri lavastus;2;1;41;..;2,50;1,90;..
+;Muud teatrid;..nukulavastus;8;3;142;..;11;8,40;..
+;Muud teatrid;..nüüdistants;32;14;166;..;13;9,90;..
+;Muud teatrid;..objektiteatri lavastus;1;1;5;..;0,90;0,70;..
+;Muud teatrid;..ooper;0;0;0;..;0;0;..
+;Muud teatrid;..operett;0;0;0;..;0;0;..
+;Muud teatrid;..sõna-, muusika- ja liikumislavastus;21;14;168;..;14,80;11,30;..
+;Muud teatrid;..tragikomöödia;7;3;98;..;13;9,90;..
+;Muud teatrid;Kokku;200;95;2 163;1 098;214,50;163,20;7,47
+;Muud teatrid;Mitmeliigilavastus;41;28;328;97;26,10;19,90;7,72
+;Muud teatrid;Muu lavastus;3;2;138;102;15,50;11,80;9,60
+;Muud teatrid;Muusikalavastus;1;0;3;3;0,40;0,30;2,30
+;Muud teatrid;Nuku- ja objektiteatri lavastus;11;5;188;150;14,30;10,90;2,50
+;Muud teatrid;Sõnalavastus;112;46;1 340;649;145,20;110,50;7,90
+;Muud teatrid;Tantsulavastus;32;14;166;97;13;9,90;6
+;Riigi- ja linnateatrid;..draama;149;52;1 946;..;321,70;244,70;..
+;Riigi- ja linnateatrid;..klassikaline tants;15;2;92;..;51,40;39,10;..
+;Riigi- ja linnateatrid;..komöödia;46;16;634;..;177,20;134,80;..
+;Riigi- ja linnateatrid;..muu;2;0;14;..;2,30;1,80;..
+;Riigi- ja linnateatrid;..muu muusikalavastus;1;0;5;..;1,50;1,10;..
+;Riigi- ja linnateatrid;..muu sõnalavastus;0;0;0;..;0;0;..
+;Riigi- ja linnateatrid;..muu tantsulavastus;0;0;0;..;0;0;..
+;Riigi- ja linnateatrid;..muusika- ja liikumislavastus;4;1;14;..;6,70;5,10;..
+;Riigi- ja linnateatrid;..muusikal;12;1;132;..;81,10;61,70;..
+;Riigi- ja linnateatrid;..nuku- ja objektiteatri lavastus;6;1;82;..;6,20;4,70;..
+;Riigi- ja linnateatrid;..nukulavastus;21;6;402;..;43,50;33,10;..
+;Riigi- ja linnateatrid;..nüüdistants;7;4;38;..;10,40;7,90;..
+;Riigi- ja linnateatrid;..objektiteatri lavastus;1;0;10;..;1,20;0,90;..
+;Riigi- ja linnateatrid;..ooper;18;4;123;..;55,80;42,40;..
+;Riigi- ja linnateatrid;..operett;3;1;45;..;30,80;23,40;..
+;Riigi- ja linnateatrid;..sõna-, muusika- ja liikumislavastus;13;8;162;..;25,20;19,10;..
+;Riigi- ja linnateatrid;..tragikomöödia;13;5;148;..;17,70;13,40;..
+;Riigi- ja linnateatrid;Kokku;311;101;3 847;731;832,60;633,40;10,67
+;Riigi- ja linnateatrid;Mitmeliigilavastus;19;9;190;40;34,20;26;8,64
+;Riigi- ja linnateatrid;Muu lavastus;0;0;0;0;0;0;0
+;Riigi- ja linnateatrid;Muusikalavastus;34;6;305;55;169,20;128,70;13,57
+;Riigi- ja linnateatrid;Nuku- ja objektiteatri lavastus;28;7;494;93;50,90;38,70;5,45
+;Riigi- ja linnateatrid;Sõnalavastus;208;73;2 728;534;516,60;393;10,30
+;Riigi- ja linnateatrid;Tantsulavastus;22;6;130;9;61,70;47;11,10
+;Teatrid kokku;..draama;225;82;2 711;..;401,60;305,50;..
+;Teatrid kokku;..klassikaline tants;15;2;92;..;51,40;39,10;..
+;Teatrid kokku;..komöödia;75;29;1 111;..;229,50;174,60;..
+;Teatrid kokku;..muu;16;9;129;..;8,80;6,70;..
+;Teatrid kokku;..muu muusikalavastus;2;0;8;..;1,90;1,40;..
+;Teatrid kokku;..muu sõnalavastus;0;0;0;..;0;0;..
+;Teatrid kokku;..muu tantsulavastus;0;0;0;..;0;0;..
+;Teatrid kokku;..muusika- ja liikumislavastus;10;6;59;..;11,40;8,70;..
+;Teatrid kokku;..muusikal;12;1;132;..;81,10;61,70;..
+;Teatrid kokku;..nuku- ja objektiteatri lavastus;8;2;123;..;8,70;6,60;..
+;Teatrid kokku;..nukulavastus;29;9;544;..;54,50;41,50;..
+;Teatrid kokku;..nüüdistants;39;18;204;..;23,40;17,80;..
+;Teatrid kokku;..objektiteatri lavastus;2;1;15;..;2;1,60;..
+;Teatrid kokku;..ooper;18;4;123;..;55,80;42,40;..
+;Teatrid kokku;..operett;3;1;45;..;30,80;23,40;..
+;Teatrid kokku;..sõna-, muusika- ja liikumislavastus;34;22;330;..;40;30,40;..
+;Teatrid kokku;..tragikomöödia;20;8;246;..;30,70;23,30;..
+;Teatrid kokku;Kokku;511;196;6 010;1 829;1 047,10;796,60;10,20
+;Teatrid kokku;Mitmeliigilavastus;60;37;518;137;60,30;45,80;8,44
+;Teatrid kokku;Muu lavastus;3;2;138;102;15,50;11,80;9,60
+;Teatrid kokku;Muusikalavastus;35;6;308;58;169,60;129;13,54
+;Teatrid kokku;Nuku- ja objektiteatri lavastus;39;12;682;243;65,20;49,60;4,92
+;Teatrid kokku;Sõnalavastus;320;119;4 068;1 183;661,80;503,40;9,91
+;Teatrid kokku;Tantsulavastus;54;20;296;106;74,80;56,90;10,64
+2015;Muud teatrid;..draama;101;52;966;..;99,90;76;..
+;Muud teatrid;..klassikaline tants;1;1;15;..;0,50;0,40;..
+;Muud teatrid;..komöödia;38;19;576;..;73,40;55,80;..
+;Muud teatrid;..muu;14;6;99;..;8,70;6,60;..
+;Muud teatrid;..muu muusikalavastus;3;2;15;..;5,80;4,40;..
+;Muud teatrid;..muu sõnalavastus;0;0;0;..;0;0;..
+;Muud teatrid;..muu tantsulavastus;0;0;0;..;0;0;..
+;Muud teatrid;..muusika- ja liikumislavastus;5;3;93;..;11,90;9,10;..
+;Muud teatrid;..muusikal;2;2;32;..;12,50;9,50;..
+;Muud teatrid;..nuku- ja objektiteatri lavastus;1;1;25;..;1,80;1,40;..
+;Muud teatrid;..nukulavastus;10;2;191;..;14,70;11,20;..
+;Muud teatrid;..nüüdistants;32;18;207;..;19,60;14,90;..
+;Muud teatrid;..objektiteatri lavastus;4;3;30;..;2,20;1,60;..
+;Muud teatrid;..ooper;1;0;2;..;0,10;0,10;..
+;Muud teatrid;..operett;0;0;0;..;0;0;..
+;Muud teatrid;..sõna-, muusika- ja liikumislavastus;27;11;226;..;19,70;15;..
+;Muud teatrid;..tragikomöödia;5;1;48;..;4,70;3,50;..
+;Muud teatrid;Kokku;245;121;2 601;1 303;286,90;218,30;8,16
+;Muud teatrid;Mitmeliigilavastus;46;20;418;209;40,30;30,70;7,18
+;Muud teatrid;Muu lavastus;1;0;76;63;11,50;8,70;3
+;Muud teatrid;Muusikalavastus;6;4;49;7;18,50;14,10;9,92
+;Muud teatrid;Nuku- ja objektiteatri lavastus;15;6;246;214;18,60;14,20;2,90
+;Muud teatrid;Sõnalavastus;144;72;1 590;697;177,90;135,30;9,04
+;Muud teatrid;Tantsulavastus;33;19;222;113;20,20;15,30;8,18
+;Riigi- ja linnateatrid;..draama;142;55;1 952;..;325,30;247,50;..
+;Riigi- ja linnateatrid;..klassikaline tants;14;4;106;..;68,20;51,90;..
+;Riigi- ja linnateatrid;..komöödia;51;10;618;..;158,90;120,90;..
+;Riigi- ja linnateatrid;..muu;2;2;22;..;1,20;0,90;..
+;Riigi- ja linnateatrid;..muu muusikalavastus;1;1;5;..;0,50;0,40;..
+;Riigi- ja linnateatrid;..muu sõnalavastus;0;0;0;..;0;0;..
+;Riigi- ja linnateatrid;..muu tantsulavastus;0;0;0;..;0;0;..
+;Riigi- ja linnateatrid;..muusika- ja liikumislavastus;2;0;8;..;3,50;2,70;..
+;Riigi- ja linnateatrid;..muusikal;12;3;125;..;73,50;55,90;..
+;Riigi- ja linnateatrid;..nuku- ja objektiteatri lavastus;6;1;89;..;6,90;5,30;..
+;Riigi- ja linnateatrid;..nukulavastus;20;1;407;..;38,20;29,10;..
+;Riigi- ja linnateatrid;..nüüdistants;5;2;37;..;10;7,60;..
+;Riigi- ja linnateatrid;..objektiteatri lavastus;0;0;0;..;0;0;..
+;Riigi- ja linnateatrid;..ooper;19;3;93;..;49,10;37,30;..
+;Riigi- ja linnateatrid;..operett;4;2;62;..;40;30,40;..
+;Riigi- ja linnateatrid;..sõna-, muusika- ja liikumislavastus;16;8;207;..;68,60;52,20;..
+;Riigi- ja linnateatrid;..tragikomöödia;11;3;102;..;15,80;12;..
+;Riigi- ja linnateatrid;Kokku;305;95;3 833;953;859,60;653,90;11,13
+;Riigi- ja linnateatrid;Mitmeliigilavastus;20;10;237;75;73,30;55,70;11,24
+;Riigi- ja linnateatrid;Muu lavastus;0;0;0;0;0;0;0
+;Riigi- ja linnateatrid;Muusikalavastus;36;9;285;39;163;124;13,57
+;Riigi- ja linnateatrid;Nuku- ja objektiteatri lavastus;26;2;496;270;45,10;34,30;5,13
+;Riigi- ja linnateatrid;Sõnalavastus;204;68;2 672;553;500;380,30;10,75
+;Riigi- ja linnateatrid;Tantsulavastus;19;6;143;16;78,30;59,50;12,52
+;Teatrid kokku;..draama;243;107;2 918;..;425,20;323,40;..
+;Teatrid kokku;..klassikaline tants;15;5;121;..;68,80;52,30;..
+;Teatrid kokku;..komöödia;89;29;1 194;..;232,30;176,70;..
+;Teatrid kokku;..muu;16;8;121;..;9,90;7,50;..
+;Teatrid kokku;..muu muusikalavastus;4;3;20;..;6,30;4,80;..
+;Teatrid kokku;..muu sõnalavastus;0;0;0;..;0;0;..
+;Teatrid kokku;..muu tantsulavastus;0;0;0;..;0;0;..
+;Teatrid kokku;..muusika- ja liikumislavastus;7;3;101;..;15,40;11,70;..
+;Teatrid kokku;..muusikal;14;5;157;..;86;65,40;..
+;Teatrid kokku;..nuku- ja objektiteatri lavastus;7;2;114;..;8,70;6,60;..
+;Teatrid kokku;..nukulavastus;30;3;598;..;52,90;40,20;..
+;Teatrid kokku;..nüüdistants;37;20;244;..;29,60;22,50;..
+;Teatrid kokku;..objektiteatri lavastus;4;3;30;..;2,20;1,60;..
+;Teatrid kokku;..ooper;20;3;95;..;49,20;37,40;..
+;Teatrid kokku;..operett;4;2;62;..;40;30,40;..
+;Teatrid kokku;..sõna-, muusika- ja liikumislavastus;43;19;433;..;88,30;67,10;..
+;Teatrid kokku;..tragikomöödia;16;4;150;..;20,40;15,50;..
+;Teatrid kokku;Kokku;550;216;6 434;2 256;1 146,60;872,20;10,60
+;Teatrid kokku;Mitmeliigilavastus;66;30;655;284;113,60;86,40;10,67
+;Teatrid kokku;Muu lavastus;1;0;76;63;11,50;8,70;3
+;Teatrid kokku;Muusikalavastus;42;13;334;46;181,50;138,10;13,14
+;Teatrid kokku;Nuku- ja objektiteatri lavastus;41;8;742;484;63,80;48,50;4,57
+;Teatrid kokku;Sõnalavastus;348;140;4 262;1 250;677,90;515,70;10,43
+;Teatrid kokku;Tantsulavastus;52;25;365;129;98,40;74,90;12,18
+2016;Muud teatrid;..draama;103;46;1 205;..;114,30;86,80;..
+;Muud teatrid;..klassikaline tants;2;1;10;..;1,30;1;..
+;Muud teatrid;..komöödia;40;14;584;..;83,60;63,50;..
+;Muud teatrid;..muu;12;7;73;..;4,30;3,30;..
+;Muud teatrid;..muu muusikalavastus;0;0;0;..;0;0;..
+;Muud teatrid;..muu sõnalavastus;0;0;0;..;0;0;..
+;Muud teatrid;..muu tantsulavastus;0;0;0;..;0;0;..
+;Muud teatrid;..muusika- ja liikumislavastus;8;5;125;..;20,30;15,40;..
+;Muud teatrid;..muusikal;2;2;34;..;12,10;9,20;..
+;Muud teatrid;..nuku- ja objektiteatri lavastus;0;0;0;..;0;0;..
+;Muud teatrid;..nukulavastus;12;5;241;..;18,40;13,90;..
+;Muud teatrid;..nüüdistants;23;12;148;..;13;9,90;..
+;Muud teatrid;..objektiteatri lavastus;4;2;24;..;10,30;7,80;..
+;Muud teatrid;..ooper;0;0;0;..;0;0;..
+;Muud teatrid;..operett;0;0;0;..;0;0;..
+;Muud teatrid;..sõna-, muusika- ja liikumislavastus;22;13;252;..;19,60;14,90;..
+;Muud teatrid;..tragikomöödia;4;1;43;..;3,90;3;..
+;Muud teatrid;Kokku;233;108;2 827;1 493;312,40;237,40;8,82
+;Muud teatrid;Mitmeliigilavastus;42;25;450;152;44,20;33,60;8,83
+;Muud teatrid;Muu lavastus;1;0;88;72;11,50;8,70;3,64
+;Muud teatrid;Muusikalavastus;2;2;34;7;12,10;9,20;6,90
+;Muud teatrid;Nuku- ja objektiteatri lavastus;16;7;265;237;28,70;21,80;4,41
+;Muud teatrid;Sõnalavastus;147;61;1 832;941;201,80;153,40;10,08
+;Muud teatrid;Tantsulavastus;25;13;158;84;14,30;10,90;7,55
+;Riigi- ja linnateatrid;..draama;141;42;1 806;..;314,20;238,80;..
+;Riigi- ja linnateatrid;..klassikaline tants;17;6;135;..;69,50;52,80;..
+;Riigi- ja linnateatrid;..komöödia;45;14;626;..;166,70;126,70;..
+;Riigi- ja linnateatrid;..muu;3;1;53;..;1,90;1,40;..
+;Riigi- ja linnateatrid;..muu muusikalavastus;0;0;0;..;0;0;..
+;Riigi- ja linnateatrid;..muu sõnalavastus;0;0;0;..;0;0;..
+;Riigi- ja linnateatrid;..muu tantsulavastus;0;0;0;..;0;0;..
+;Riigi- ja linnateatrid;..muusika- ja liikumislavastus;1;0;2;..;1,10;0,80;..
+;Riigi- ja linnateatrid;..muusikal;11;2;187;..;111,30;84,60;..
+;Riigi- ja linnateatrid;..nuku- ja objektiteatri lavastus;5;1;60;..;6;4,60;..
+;Riigi- ja linnateatrid;..nukulavastus;22;1;344;..;26,80;20,30;..
+;Riigi- ja linnateatrid;..nüüdistants;5;1;36;..;9;6,80;..
+;Riigi- ja linnateatrid;..objektiteatri lavastus;0;0;0;..;0;0;..
+;Riigi- ja linnateatrid;..ooper;20;4;100;..;51,10;38,80;..
+;Riigi- ja linnateatrid;..operett;5;0;42;..;24,50;18,60;..
+;Riigi- ja linnateatrid;..sõna-, muusika- ja liikumislavastus;18;9;206;..;57,30;43,50;..
+;Riigi- ja linnateatrid;..tragikomöödia;14;7;149;..;34,30;26,10;..
+;Riigi- ja linnateatrid;Kokku;307;88;3 746;1 051;873,60;663,90;12,21
+;Riigi- ja linnateatrid;Mitmeliigilavastus;22;10;261;95;60,20;45,80;9,76
+;Riigi- ja linnateatrid;Muu lavastus;0;0;0;0;0;0;0
+;Riigi- ja linnateatrid;Muusikalavastus;36;6;329;34;186,80;142;17,06
+;Riigi- ja linnateatrid;Nuku- ja objektiteatri lavastus;27;2;404;326;32,80;24,90;5,06
+;Riigi- ja linnateatrid;Sõnalavastus;200;63;2 581;585;515,20;391,60;11,07
+;Riigi- ja linnateatrid;Tantsulavastus;22;7;171;11;78,50;59,70;13,29
+;Teatrid kokku;..draama;244;88;3 011;..;428,50;325,60;..
+;Teatrid kokku;..klassikaline tants;19;7;145;..;70,80;53,80;..
+;Teatrid kokku;..komöödia;85;28;1 210;..;250,30;190,20;..
+;Teatrid kokku;..muu;15;8;126;..;6,20;4,70;..
+;Teatrid kokku;..muu muusikalavastus;0;0;0;..;0;0;..
+;Teatrid kokku;..muu sõnalavastus;0;0;0;..;0;0;..
+;Teatrid kokku;..muu tantsulavastus;0;0;0;..;0;0;..
+;Teatrid kokku;..muusika- ja liikumislavastus;9;5;127;..;21,30;16,20;..
+;Teatrid kokku;..muusikal;13;4;221;..;123,40;93,80;..
+;Teatrid kokku;..nuku- ja objektiteatri lavastus;5;1;60;..;6;4,60;..
+;Teatrid kokku;..nukulavastus;34;6;585;..;45,10;34,30;..
+;Teatrid kokku;..nüüdistants;28;13;184;..;22;16,70;..
+;Teatrid kokku;..objektiteatri lavastus;4;2;24;..;10,30;7,80;..
+;Teatrid kokku;..ooper;20;4;100;..;51,10;38,80;..
+;Teatrid kokku;..operett;5;0;42;..;24,50;18,60;..
+;Teatrid kokku;..sõna-, muusika- ja liikumislavastus;40;22;458;..;76,90;58,40;..
+;Teatrid kokku;..tragikomöödia;18;8;192;..;38,20;29,10;..
+;Teatrid kokku;Kokku;540;196;6 573;2 544;1 186;901,40;11
+;Teatrid kokku;Mitmeliigilavastus;64;35;711;247;104,40;79,30;9,58
+;Teatrid kokku;Muu lavastus;1;0;88;72;11,50;8,70;3,64
+;Teatrid kokku;Muusikalavastus;38;8;363;41;198,90;151,20;16,44
+;Teatrid kokku;Nuku- ja objektiteatri lavastus;43;9;669;563;61,50;46,70;4,44
+;Teatrid kokku;Sõnalavastus;347;124;4 413;1 526;717;544,90;10,82
+;Teatrid kokku;Tantsulavastus;47;20;329;95;92,80;70,50;12,67
+2017;Muud teatrid;..draama;90;32;1 059;..;111,20;84,40;..
+;Muud teatrid;..klassikaline tants;3;1;11;..;1,10;0,90;..
+;Muud teatrid;..komöödia;42;17;667;..;79,40;60,30;..
+;Muud teatrid;..muu;10;4;201;..;9,70;7,40;..
+;Muud teatrid;..muu muusikalavastus;5;3;21;..;5;3,80;..
+;Muud teatrid;..muu sõnalavastus;0;0;0;..;0;0;..
+;Muud teatrid;..muu tantsulavastus;1;1;3;..;0,30;0,20;..
+;Muud teatrid;..muusika- ja liikumislavastus;9;5;128;..;17;12,90;..
+;Muud teatrid;..muusikal;1;0;2;..;0,10;0,10;..
+;Muud teatrid;..nuku- ja objektiteatri lavastus;1;1;59;..;4,40;3,30;..
+;Muud teatrid;..nukulavastus;10;1;176;..;12,70;9,60;..
+;Muud teatrid;..nüüdistants;31;18;171;..;15,90;12,10;..
+;Muud teatrid;..objektiteatri lavastus;3;0;28;..;2,80;2,10;..
+;Muud teatrid;..ooper;0;0;0;..;0;0;..
+;Muud teatrid;..operett;0;0;0;..;0;0;..
+;Muud teatrid;..sõna-, muusika- ja liikumislavastus;31;20;261;..;24,40;18,50;..
+;Muud teatrid;..tragikomöödia;2;1;19;..;1,80;1,40;..
+;Muud teatrid;Kokku;241;105;2 893;1 549;298,60;226,60;9,61
+;Muud teatrid;Mitmeliigilavastus;50;29;590;146;51,10;38,80;10,54
+;Muud teatrid;Muu lavastus;2;1;87;74;12,80;9,80;4,08
+;Muud teatrid;Muusikalavastus;6;3;23;7;5;3,80;17,20
+;Muud teatrid;Nuku- ja objektiteatri lavastus;14;2;263;241;19,90;15,10;4,30
+;Muud teatrid;Sõnalavastus;134;50;1 745;984;192,40;146;10,65
+;Muud teatrid;Tantsulavastus;35;20;185;97;17,30;13,20;6,24
+;Riigi- ja linnateatrid;..draama;150;61;1 996;..;332,70;252,50;..
+;Riigi- ja linnateatrid;..klassikaline tants;17;2;125;..;69,60;52,80;..
+;Riigi- ja linnateatrid;..komöödia;41;5;485;..;132,30;100,40;..
+;Riigi- ja linnateatrid;..muu;6;3;54;..;7,70;5,90;..
+;Riigi- ja linnateatrid;..muu muusikalavastus;0;0;0;..;0;0;..
+;Riigi- ja linnateatrid;..muu sõnalavastus;0;0;0;..;0;0;..
+;Riigi- ja linnateatrid;..muu tantsulavastus;0;0;0;..;0;0;..
+;Riigi- ja linnateatrid;..muusika- ja liikumislavastus;0;0;0;..;0;0;..
+;Riigi- ja linnateatrid;..muusikal;10;1;125;..;81,90;62,20;..
+;Riigi- ja linnateatrid;..nuku- ja objektiteatri lavastus;4;0;44;..;6;4,50;..
+;Riigi- ja linnateatrid;..nukulavastus;19;1;326;..;31,30;23,70;..
+;Riigi- ja linnateatrid;..nüüdistants;8;6;78;..;13,30;10,10;..
+;Riigi- ja linnateatrid;..objektiteatri lavastus;1;1;8;..;0,90;0,70;..
+;Riigi- ja linnateatrid;..ooper;23;5;114;..;57,50;43,70;..
+;Riigi- ja linnateatrid;..operett;6;1;45;..;26,70;20,30;..
+;Riigi- ja linnateatrid;..sõna-, muusika- ja liikumislavastus;21;11;266;..;71;53,90;..
+;Riigi- ja linnateatrid;..tragikomöödia;12;2;154;..;34,50;26,20;..
+;Riigi- ja linnateatrid;Kokku;318;99;3 820;675;865,40;656,90;11,81
+;Riigi- ja linnateatrid;Mitmeliigilavastus;27;14;320;53;78,80;59,80;8,71
+;Riigi- ja linnateatrid;Muu lavastus;0;0;0;0;0;0;0
+;Riigi- ja linnateatrid;Muusikalavastus;39;7;284;34;166,20;126,20;15,41
+;Riigi- ja linnateatrid;Nuku- ja objektiteatri lavastus;24;2;378;109;38,10;28,90;5,75
+;Riigi- ja linnateatrid;Sõnalavastus;203;68;2 635;459;499,40;379,10;11,61
+;Riigi- ja linnateatrid;Tantsulavastus;25;8;203;20;82,90;62,90;13,92
+;Teatrid kokku;..draama;240;93;3 055;..;443,80;336,90;..
+;Teatrid kokku;..klassikaline tants;20;3;136;..;70,70;53,70;..
+;Teatrid kokku;..komöödia;83;22;1 152;..;211,70;160,70;..
+;Teatrid kokku;..muu;16;7;255;..;17,50;13,30;..
+;Teatrid kokku;..muu muusikalavastus;5;3;21;..;5;3,80;..
+;Teatrid kokku;..muu sõnalavastus;0;0;0;..;0;0;..
+;Teatrid kokku;..muu tantsulavastus;1;1;3;..;0,30;0,20;..
+;Teatrid kokku;..muusika- ja liikumislavastus;9;5;128;..;17;12,90;..
+;Teatrid kokku;..muusikal;11;1;127;..;82;62,20;..
+;Teatrid kokku;..nuku- ja objektiteatri lavastus;5;1;103;..;10,40;7,90;..
+;Teatrid kokku;..nukulavastus;29;2;502;..;44;33,40;..
+;Teatrid kokku;..nüüdistants;39;24;249;..;29,20;22,20;..
+;Teatrid kokku;..objektiteatri lavastus;4;1;36;..;3,70;2,80;..
+;Teatrid kokku;..ooper;23;5;114;..;57,50;43,70;..
+;Teatrid kokku;..operett;6;1;45;..;26,70;20,30;..
+;Teatrid kokku;..sõna-, muusika- ja liikumislavastus;52;31;527;..;95,40;72,40;..
+;Teatrid kokku;..tragikomöödia;14;3;173;..;36,30;27,60;..
+;Teatrid kokku;Kokku;559;204;6 713;2 224;1 164;883,50;10,30
+;Teatrid kokku;Mitmeliigilavastus;77;43;910;199;129,80;98,60;9,18
+;Teatrid kokku;Muu lavastus;2;1;87;74;12,80;9,80;4,08
+;Teatrid kokku;Muusikalavastus;45;10;307;41;171,20;130;15,43
+;Teatrid kokku;Nuku- ja objektiteatri lavastus;38;4;641;350;58;44;5,04
+;Teatrid kokku;Sõnalavastus;337;118;4 380;1 443;691,80;525,20;11,38
+;Teatrid kokku;Tantsulavastus;60;28;388;117;100,20;76,10;13,28
+2018;Muud teatrid;..draama;119;58;1 245;..;131,40;99,40;..
+;Muud teatrid;..klassikaline tants;3;1;15;..;1,80;1,40;..
+;Muud teatrid;..komöödia;34;8;504;..;64,20;48,50;..
+;Muud teatrid;..muu;12;5;230;..;8,30;6,30;..
+;Muud teatrid;..muu muusikalavastus;5;2;20;..;3,20;2,40;..
+;Muud teatrid;..muu sõnalavastus;2;1;24;..;1;0,80;..
+;Muud teatrid;..muu tantsulavastus;0;0;0;..;0;0;..
+;Muud teatrid;..muusika- ja liikumislavastus;6;0;126;..;17,90;13,50;..
+;Muud teatrid;..muusikal;3;2;29;..;23,90;18,10;..
+;Muud teatrid;..nuku- ja objektiteatri lavastus;0;0;0;..;0;0;..
+;Muud teatrid;..nukulavastus;10;3;242;..;17,40;13,20;..
+;Muud teatrid;..nüüdistants;33;20;175;..;18,60;14;..
+;Muud teatrid;..objektiteatri lavastus;1;0;1;..;0;0;..
+;Muud teatrid;..ooper;0;0;0;..;0;0;..
+;Muud teatrid;..operett;0;0;0;..;0;0;..
+;Muud teatrid;..sõna-, muusika- ja liikumislavastus;30;16;252;..;21,50;16,20;..
+;Muud teatrid;..tragikomöödia;1;0;17;..;2,40;1,80;..
+;Muud teatrid;Kokku;260;116;2 942;1 435;325,10;245,90;11,50
+;Muud teatrid;Mitmeliigilavastus;48;21;608;174;47,70;36,10;13,51
+;Muud teatrid;Muu lavastus;1;0;62;52;13,50;10,20;2,91
+;Muud teatrid;Muusikalavastus;8;4;49;12;27,10;20,50;18,43
+;Muud teatrid;Nuku- ja objektiteatri lavastus;11;3;243;241;17,40;13,20;3
+;Muud teatrid;Sõnalavastus;156;67;1 790;863;199,10;150,60;11,70
+;Muud teatrid;Tantsulavastus;36;21;190;93;20,40;15,40;10,51
+;Riigi- ja linnateatrid;..draama;161;56;2 009;..;355,40;268,90;..
+;Riigi- ja linnateatrid;..klassikaline tants;12;2;99;..;62,60;47,40;..
+;Riigi- ja linnateatrid;..komöödia;38;11;479;..;119,80;90,60;..
+;Riigi- ja linnateatrid;..muu;5;1;84;..;21,70;16,40;..
+;Riigi- ja linnateatrid;..muu muusikalavastus;2;2;8;..;2,10;1,60;..
+;Riigi- ja linnateatrid;..muu sõnalavastus;0;0;0;..;0;0;..
+;Riigi- ja linnateatrid;..muu tantsulavastus;0;0;0;..;0;0;..
+;Riigi- ja linnateatrid;..muusika- ja liikumislavastus;0;0;0;..;0;0;..
+;Riigi- ja linnateatrid;..muusikal;10;3;133;..;81;61,20;..
+;Riigi- ja linnateatrid;..nuku- ja objektiteatri lavastus;5;3;98;..;11,70;8,80;..
+;Riigi- ja linnateatrid;..nukulavastus;17;1;246;..;25,30;19,20;..
+;Riigi- ja linnateatrid;..nüüdistants;12;3;61;..;15,80;11,90;..
+;Riigi- ja linnateatrid;..objektiteatri lavastus;1;0;10;..;0,80;0,60;..
+;Riigi- ja linnateatrid;..ooper;23;2;114;..;51,30;38,80;..
+;Riigi- ja linnateatrid;..operett;5;1;58;..;33;25;..
+;Riigi- ja linnateatrid;..sõna-, muusika- ja liikumislavastus;21;8;257;..;63,70;48,20;..
+;Riigi- ja linnateatrid;..tragikomöödia;10;2;97;..;22,70;17,10;..
+;Riigi- ja linnateatrid;Kokku;322;95;3 753;593;866,90;655,80;12,83
+;Riigi- ja linnateatrid;Mitmeliigilavastus;26;9;341;75;85,40;64,60;9,54
+;Riigi- ja linnateatrid;Muu lavastus;0;0;0;0;0;0;0
+;Riigi- ja linnateatrid;Muusikalavastus;40;8;313;30;167,40;126,60;17,20
+;Riigi- ja linnateatrid;Nuku- ja objektiteatri lavastus;23;4;354;99;37,80;28,60;7,23
+;Riigi- ja linnateatrid;Sõnalavastus;209;69;2 585;368;497,90;376,60;12,10
+;Riigi- ja linnateatrid;Tantsulavastus;24;5;160;21;78,40;59,30;14,34
+;Teatrid kokku;..draama;280;114;3 254;..;486,90;368,30;..
+;Teatrid kokku;..klassikaline tants;15;3;114;..;64,50;48,80;..
+;Teatrid kokku;..komöödia;72;19;983;..;184;139,20;..
+;Teatrid kokku;..muu;17;6;314;..;30;22,70;..
+;Teatrid kokku;..muu muusikalavastus;7;4;28;..;5,30;4;..
+;Teatrid kokku;..muu sõnalavastus;2;1;24;..;1;0,80;..
+;Teatrid kokku;..muu tantsulavastus;0;0;0;..;0;0;..
+;Teatrid kokku;..muusika- ja liikumislavastus;6;0;126;..;17,90;13,50;..
+;Teatrid kokku;..muusikal;13;5;162;..;104,90;79,30;..
+;Teatrid kokku;..nuku- ja objektiteatri lavastus;5;3;98;..;11,70;8,80;..
+;Teatrid kokku;..nukulavastus;27;4;488;..;42,70;32,30;..
+;Teatrid kokku;..nüüdistants;45;23;236;..;34,40;26;..
+;Teatrid kokku;..objektiteatri lavastus;2;0;11;..;0,80;0,60;..
+;Teatrid kokku;..ooper;23;2;114;..;51,30;38,80;..
+;Teatrid kokku;..operett;5;1;58;..;33;25;..
+;Teatrid kokku;..sõna-, muusika- ja liikumislavastus;51;24;509;..;85,20;64,40;..
+;Teatrid kokku;..tragikomöödia;11;2;114;..;25,10;19;..
+;Teatrid kokku;Kokku;582;211;6 695;2 028;1 192;901,70;12,56
+;Teatrid kokku;Mitmeliigilavastus;74;30;949;249;133;100,60;10,43
+;Teatrid kokku;Muu lavastus;1;0;62;52;13,50;10,20;2,91
+;Teatrid kokku;Muusikalavastus;48;12;362;42;194,50;147,10;17,45
+;Teatrid kokku;Nuku- ja objektiteatri lavastus;34;7;597;340;55,30;41,80;6,12
+;Teatrid kokku;Sõnalavastus;365;136;4 375;1 231;697;527,20;12
+;Teatrid kokku;Tantsulavastus;60;26;350;114;98,80;74,70;14,14
+2019;Muud teatrid;..draama;133;50;1 472;..;149,30;112,50;..
+;Muud teatrid;..klassikaline tants;4;0;31;..;4,10;3,10;..
+;Muud teatrid;..komöödia;43;13;574;..;98,50;74,30;..
+;Muud teatrid;..muu;11;7;99;..;8,80;6,70;..
+;Muud teatrid;..muu muusikalavastus;2;1;11;..;1,30;1;..
+;Muud teatrid;..muu sõnalavastus;3;0;60;..;4,50;3,40;..
+;Muud teatrid;..muu tantsulavastus;0;0;0;..;0;0;..
+;Muud teatrid;..muusika- ja liikumislavastus;7;6;102;..;14,50;10,90;..
+;Muud teatrid;..muusikal;3;1;32;..;23,10;17,40;..
+;Muud teatrid;..nuku- ja objektiteatri lavastus;2;2;24;..;1,90;1,50;..
+;Muud teatrid;..nukulavastus;12;3;194;..;15,80;11,90;..
+;Muud teatrid;..nüüdistants;33;19;185;..;12,60;9,50;..
+;Muud teatrid;..objektiteatri lavastus;0;0;0;..;0;0;..
+;Muud teatrid;..ooper;2;2;15;..;3,20;2,40;..
+;Muud teatrid;..operett;0;0;0;..;0;0;..
+;Muud teatrid;..sõna-, muusika- ja liikumislavastus;35;19;312;..;37,20;28;..
+;Muud teatrid;..tragikomöödia;8;7;117;..;16,60;12,50;..
+;Muud teatrid;Kokku;299;130;3 279;1 807;402,20;303,10;13,19
+;Muud teatrid;Mitmeliigilavastus;53;32;513;144;60,50;45,60;14,74
+;Muud teatrid;Muu lavastus;1;0;51;44;10,80;8,20;3,12
+;Muud teatrid;Muusikalavastus;7;4;58;23;27,60;20,80;24,62
+;Muud teatrid;Nuku- ja objektiteatri lavastus;14;5;218;196;17,80;13,40;3,44
+;Muud teatrid;Sõnalavastus;187;70;2 223;1 303;268,90;202,70;12,82
+;Muud teatrid;Tantsulavastus;37;19;216;97;16,60;12,50;7,31
+;Riigi- ja linnateatrid;..draama;145;46;1 959;..;352,50;265,60;..
+;Riigi- ja linnateatrid;..klassikaline tants;16;3;115;..;73,80;55,60;..
+;Riigi- ja linnateatrid;..komöödia;47;15;661;..;154;116;..
+;Riigi- ja linnateatrid;..muu;4;2;43;..;9,30;7;..
+;Riigi- ja linnateatrid;..muu muusikalavastus;1;0;2;..;0,80;0,60;..
+;Riigi- ja linnateatrid;..muu sõnalavastus;1;1;9;..;1,30;1;..
+;Riigi- ja linnateatrid;..muu tantsulavastus;0;0;0;..;0;0;..
+;Riigi- ja linnateatrid;..muusika- ja liikumislavastus;1;1;6;..;2,70;2;..
+;Riigi- ja linnateatrid;..muusikal;12;2;147;..;82,50;62,20;..
+;Riigi- ja linnateatrid;..nuku- ja objektiteatri lavastus;7;2;89;..;8,70;6,60;..
+;Riigi- ja linnateatrid;..nukulavastus;15;1;211;..;18,80;14,20;..
+;Riigi- ja linnateatrid;..nüüdistants;7;3;60;..;10,60;8;..
+;Riigi- ja linnateatrid;..objektiteatri lavastus;1;0;4;..;0,40;0,30;..
+;Riigi- ja linnateatrid;..ooper;21;3;103;..;47,80;36;..
+;Riigi- ja linnateatrid;..operett;5;1;41;..;22,70;17,10;..
+;Riigi- ja linnateatrid;..sõna-, muusika- ja liikumislavastus;18;10;239;..;65,90;49,60;..
+;Riigi- ja linnateatrid;..tragikomöödia;10;2;79;..;19,40;14,60;..
+;Riigi- ja linnateatrid;Kokku;311;92;3 768;538;871,10;656,50;13,51
+;Riigi- ja linnateatrid;Mitmeliigilavastus;23;13;288;27;77,80;58,70;11,68
+;Riigi- ja linnateatrid;Muu lavastus;0;0;0;0;0;0;0
+;Riigi- ja linnateatrid;Muusikalavastus;39;6;293;25;153,80;115,90;17,84
+;Riigi- ja linnateatrid;Nuku- ja objektiteatri lavastus;23;3;304;84;27,90;21,10;7,65
+;Riigi- ja linnateatrid;Sõnalavastus;203;64;2 708;389;527,10;397,30;12,60
+;Riigi- ja linnateatrid;Tantsulavastus;23;6;175;13;84,40;63,60;14,94
+;Teatrid kokku;..draama;278;96;3 431;..;501,70;378,10;..
+;Teatrid kokku;..klassikaline tants;20;3;146;..;77,90;58,70;..
+;Teatrid kokku;..komöödia;90;28;1 235;..;252,50;190,30;..
+;Teatrid kokku;..muu;15;9;142;..;18,10;13,70;..
+;Teatrid kokku;..muu muusikalavastus;3;1;13;..;2,10;1,60;..
+;Teatrid kokku;..muu sõnalavastus;4;1;69;..;5,80;4,40;..
+;Teatrid kokku;..muu tantsulavastus;0;0;0;..;0;0;..
+;Teatrid kokku;..muusika- ja liikumislavastus;8;7;108;..;17,20;12,90;..
+;Teatrid kokku;..muusikal;15;3;179;..;105,60;79,60;..
+;Teatrid kokku;..nuku- ja objektiteatri lavastus;9;4;113;..;10,60;8;..
+;Teatrid kokku;..nukulavastus;27;4;405;..;34,60;26,10;..
+;Teatrid kokku;..nüüdistants;40;22;245;..;23,10;17,40;..
+;Teatrid kokku;..objektiteatri lavastus;1;0;4;..;0,40;0,30;..
+;Teatrid kokku;..ooper;23;5;118;..;51;38,50;..
+;Teatrid kokku;..operett;5;1;41;..;22,70;17,10;..
+;Teatrid kokku;..sõna-, muusika- ja liikumislavastus;53;29;551;..;103;77,70;..
+;Teatrid kokku;..tragikomöödia;18;9;196;..;36;27,10;..
+;Teatrid kokku;Kokku;610;222;7 047;2 345;1 273,30;959,60;13,44
+;Teatrid kokku;Mitmeliigilavastus;76;45;801;171;138,30;104,30;12,45
+;Teatrid kokku;Muu lavastus;1;0;51;44;10,80;8,20;3,12
+;Teatrid kokku;Muusikalavastus;46;10;351;48;181,40;136,70;18,75
+;Teatrid kokku;Nuku- ja objektiteatri lavastus;37;8;522;280;45,70;34,40;6,30
+;Teatrid kokku;Sõnalavastus;390;134;4 931;1 692;796,10;599,90;12,66
+;Teatrid kokku;Tantsulavastus;60;25;391;110;101;76,10;14,31
+2020;Muud teatrid;..draama;121;50;1 092;..;85,40;64,20;..
+;Muud teatrid;..klassikaline tants;3;0;8;..;0,70;0,50;..
+;Muud teatrid;..komöödia;36;8;392;..;60,50;45,50;..
+;Muud teatrid;..muu;12;7;52;..;2,20;1,60;..
+;Muud teatrid;..muu muusikalavastus;6;4;42;..;8,20;6,10;..
+;Muud teatrid;..muu sõnalavastus;0;0;0;..;0;0;..
+;Muud teatrid;..muu tantsulavastus;0;0;0;..;0;0;..
+;Muud teatrid;..muusika- ja liikumislavastus;3;0;53;..;6,40;4,80;..
+;Muud teatrid;..muusikal;2;0;27;..;2,20;1,60;..
+;Muud teatrid;..nuku- ja objektiteatri lavastus;1;0;6;..;0,20;0,20;..
+;Muud teatrid;..nukulavastus;11;2;90;..;5,90;4,50;..
+;Muud teatrid;..nüüdistants;22;13;116;..;5,90;4,40;..
+;Muud teatrid;..objektiteatri lavastus;0;0;0;..;0;0;..
+;Muud teatrid;..ooper;0;0;0;..;0;0;..
+;Muud teatrid;..operett;0;0;0;..;0;0;..
+;Muud teatrid;..sõna-, muusika- ja liikumislavastus;30;17;198;..;32,90;24,80;..
+;Muud teatrid;..tragikomöödia;8;1;90;..;11;8,20;..
+;Muud teatrid;Kokku;256;102;2 192;1 055;223,60;168,20;15,21
+;Muud teatrid;Mitmeliigilavastus;45;24;303;131;41,50;31,20;24,45
+;Muud teatrid;Muu lavastus;1;0;26;21;2,20;1,60;5,38
+;Muud teatrid;Muusikalavastus;8;4;69;39;10,30;7,80;14,12
+;Muud teatrid;Nuku- ja objektiteatri lavastus;12;2;96;95;6,20;4,60;3,42
+;Muud teatrid;Sõnalavastus;165;59;1 574;714;156,90;118;13,70
+;Muud teatrid;Tantsulavastus;25;13;124;55;6,60;4,90;8,53
+;Riigi- ja linnateatrid;..draama;141;39;1 421;..;215,30;162;..
+;Riigi- ja linnateatrid;..klassikaline tants;12;4;80;..;41,90;31,50;..
+;Riigi- ja linnateatrid;..komöödia;45;7;454;..;103;77,50;..
+;Riigi- ja linnateatrid;..muu;5;3;52;..;5,70;4,30;..
+;Riigi- ja linnateatrid;..muu muusikalavastus;5;4;37;..;5,70;4,30;..
+;Riigi- ja linnateatrid;..muu sõnalavastus;0;0;0;..;0;0;..
+;Riigi- ja linnateatrid;..muu tantsulavastus;0;0;0;..;0;0;..
+;Riigi- ja linnateatrid;..muusika- ja liikumislavastus;0;0;0;..;0;0;..
+;Riigi- ja linnateatrid;..muusikal;11;2;103;..;41,80;31,40;..
+;Riigi- ja linnateatrid;..nuku- ja objektiteatri lavastus;6;1;38;..;2,20;1,70;..
+;Riigi- ja linnateatrid;..nukulavastus;11;0;114;..;9,50;7,20;..
+;Riigi- ja linnateatrid;..nüüdistants;4;0;37;..;4,40;3,30;..
+;Riigi- ja linnateatrid;..objektiteatri lavastus;0;0;0;..;0;0;..
+;Riigi- ja linnateatrid;..ooper;14;1;41;..;19,20;14,50;..
+;Riigi- ja linnateatrid;..operett;6;1;32;..;15,90;12;..
+;Riigi- ja linnateatrid;..sõna-, muusika- ja liikumislavastus;15;2;128;..;27,20;20,40;..
+;Riigi- ja linnateatrid;..tragikomöödia;8;0;56;..;11,80;8,80;..
+;Riigi- ja linnateatrid;Kokku;283;64;2 593;385;503,80;378,90;13,67
+;Riigi- ja linnateatrid;Mitmeliigilavastus;20;5;180;20;32,90;24,70;11,44
+;Riigi- ja linnateatrid;Muu lavastus;0;0;0;0;0;0;0
+;Riigi- ja linnateatrid;Muusikalavastus;36;8;213;15;82,70;62,20;17,32
+;Riigi- ja linnateatrid;Nuku- ja objektiteatri lavastus;17;1;152;18;11,70;8,80;6,81
+;Riigi- ja linnateatrid;Sõnalavastus;194;46;1 931;330;330,10;248,30;13,02
+;Riigi- ja linnateatrid;Tantsulavastus;16;4;117;2;46,30;34,90;14,96
+;Teatrid kokku;..draama;262;89;2 513;..;300,70;226,20;..
+;Teatrid kokku;..klassikaline tants;15;4;88;..;42,60;32;..
+;Teatrid kokku;..komöödia;81;15;846;..;163,50;123;..
+;Teatrid kokku;..muu;17;10;104;..;7,90;5,90;..
+;Teatrid kokku;..muu muusikalavastus;11;8;79;..;13,90;10,50;..
+;Teatrid kokku;..muu sõnalavastus;0;0;0;..;0;0;..
+;Teatrid kokku;..muu tantsulavastus;0;0;0;..;0;0;..
+;Teatrid kokku;..muusika- ja liikumislavastus;3;0;53;..;6,40;4,80;..
+;Teatrid kokku;..muusikal;13;2;130;..;43,90;33;..
+;Teatrid kokku;..nuku- ja objektiteatri lavastus;7;1;44;..;2,40;1,80;..
+;Teatrid kokku;..nukulavastus;22;2;204;..;15,50;11,60;..
+;Teatrid kokku;..nüüdistants;26;13;153;..;10,30;7,80;..
+;Teatrid kokku;..objektiteatri lavastus;0;0;0;..;0;0;..
+;Teatrid kokku;..ooper;14;1;41;..;19,20;14,50;..
+;Teatrid kokku;..operett;6;1;32;..;15,90;12;..
+;Teatrid kokku;..sõna-, muusika- ja liikumislavastus;45;19;326;..;60,10;45,20;..
+;Teatrid kokku;..tragikomöödia;16;1;146;..;22,70;17,10;..
+;Teatrid kokku;Kokku;539;166;4 785;1 440;727,30;547,10;14,01
+;Teatrid kokku;Mitmeliigilavastus;65;29;483;151;74,40;55,90;17,49
+;Teatrid kokku;Muu lavastus - tsirkus;1;0;26;21;2,20;1,60;5,38
+;Teatrid kokku;Muusikalavastus;44;12;282;54;93;69,90;17,25
+;Teatrid kokku;Nuku- ja objektiteatri lavastus;29;3;248;113;17,90;13,50;5,82
+;Teatrid kokku;Sõnalavastus;359;105;3 505;1 044;487;366,30;13,17
+;Teatrid kokku;Tantsulavastus;41;17;241;57;52,90;39,80;14,48
+2021;Muud teatrid;..draama;139;65;1 147;..;123,20;92,60;..
+;Muud teatrid;..klassikaline tants;2;0;3;..;0,10;0,10;..
+;Muud teatrid;..komöödia;40;16;447;..;76,40;57,40;..
+;Muud teatrid;..muu;9;7;75;..;0,70;0,50;..
+;Muud teatrid;..muu muusikalavastus;3;1;7;..;1,30;1;..
+;Muud teatrid;..muu sõnalavastus;1;0;3;..;0,20;0,10;..
+;Muud teatrid;..muu tantsulavastus;0;0;0;..;0;0;..
+;Muud teatrid;..muusika- ja liikumislavastus;3;1;44;..;5,30;4;..
+;Muud teatrid;..muusikal;3;2;23;..;7,60;5,70;..
+;Muud teatrid;..nuku- ja objektiteatri lavastus;3;2;28;..;1,20;0,90;..
+;Muud teatrid;..nukulavastus;15;2;83;..;3,60;2,70;..
+;Muud teatrid;..nüüdistants;36;25;191;..;11;8,30;..
+;Muud teatrid;..objektiteatri lavastus;0;0;0;..;0;0;..
+;Muud teatrid;..ooper;5;5;10;..;3;2,20;..
+;Muud teatrid;..operett;0;0;0;..;0;0;..
+;Muud teatrid;..sõna-, muusika- ja liikumislavastus;25;11;134;..;18,40;13,80;..
+;Muud teatrid;..tragikomöödia;8;2;75;..;9,70;7,30;..
+;Muud teatrid;Kokku;293;139;2 293;888;264,30;198,60;16,45
+;Muud teatrid;Mitmeliigilavastus;37;19;253;87;24,40;18,30;26,71
+;Muud teatrid;Muu lavastus;1;0;23;..;2,60;2;..
+;Muud teatrid;Muusikalavastus;11;8;40;9;11,90;9;11,21
+;Muud teatrid;Nuku- ja objektiteatri lavastus;18;4;111;75;4,80;3,60;4,98
+;Muud teatrid;Sõnalavastus;188;83;1 672;662;209,40;157,40;16,12
+;Muud teatrid;Tantsulavastus;38;25;194;37;11,10;8,40;9,10
+;Riigi- ja linnateatrid;..draama;141;46;1 543;..;197,50;148,40;..
+;Riigi- ja linnateatrid;..klassikaline tants;14;2;78;..;32,20;24,20;..
+;Riigi- ja linnateatrid;..komöödia;44;8;341;..;65,80;49,40;..
+;Riigi- ja linnateatrid;..muu;5;0;31;..;3;2,30;..
+;Riigi- ja linnateatrid;..muu muusikalavastus;5;2;46;..;5,70;4,30;..
+;Riigi- ja linnateatrid;..muu tantsulavastus;0;0;0;..;0;0;..
+;Riigi- ja linnateatrid;..muusika- ja liikumislavastus;1;1;7;..;1,90;1,50;..
+;Riigi- ja linnateatrid;..muusikal;10;0;60;..;19,90;14,90;..
+;Riigi- ja linnateatrid;..nuku- ja objektiteatri lavastus;4;0;29;..;1,30;1;..
+;Riigi- ja linnateatrid;..nukulavastus;9;1;81;..;4,70;3,50;..
+;Riigi- ja linnateatrid;..nüüdistants;6;2;31;..;4,30;3,20;..
+;Riigi- ja linnateatrid;..objektiteatri lavastus;0;0;0;..;0;0;..
+;Riigi- ja linnateatrid;..ooper;13;3;48;..;14,50;10,90;..
+;Riigi- ja linnateatrid;..operett;4;1;23;..;9,50;7,10;..
+;Riigi- ja linnateatrid;..sõna-, muusika- ja liikumislavastus;13;3;126;..;17,10;12,90;..
+;Riigi- ja linnateatrid;..tragikomöödia;9;3;53;..;9,50;7,10;..
+;Riigi- ja linnateatrid;Kokku;278;72;2 497;343;386,80;290,60;14,58
+;Riigi- ja linnateatrid;Mitmeliigilavastus;19;4;164;31;22,10;16,60;11,19
+;Riigi- ja linnateatrid;Muu lavastus;0;0;0;0;0;0;0
+;Riigi- ja linnateatrid;Muusikalavastus;32;6;177;16;49,50;37,20;18,03
+;Riigi- ja linnateatrid;Nuku- ja objektiteatri lavastus;13;1;110;17;6;4,50;6,43
+;Riigi- ja linnateatrid;Sõnalavastus;194;57;1 937;276;272,70;204,90;14,18
+;Riigi- ja linnateatrid;Tantsulavastus;20;4;109;3;36,50;27,40;16,10
+;Teatrid kokku;..draama;280;111;2 690;..;320,70;240,90;..
+;Teatrid kokku;..klassikaline tants;16;2;81;..;32,30;24,30;..
+;Teatrid kokku;..komöödia;84;24;788;..;142,10;106,80;..
+;Teatrid kokku;..muu;14;7;106;..;3,70;2,80;..
+;Teatrid kokku;..muu muusikalavastus;8;3;53;..;7,10;5,30;..
+;Teatrid kokku;..muu sõnalavastus;1;0;3;..;0,20;0,10;..
+;Teatrid kokku;..muu tantsulavastus;0;0;0;..;0;0;..
+;Teatrid kokku;..muusika- ja liikumislavastus;4;2;51;..;7,30;5,50;..
+;Teatrid kokku;..muusikal;13;2;83;..;27,50;20,60;..
+;Teatrid kokku;..nuku- ja objektiteatri lavastus;7;2;57;..;2,50;1,90;..
+;Teatrid kokku;..nukulavastus;24;3;164;..;8,30;6,20;..
+;Teatrid kokku;..nüüdistants;42;27;222;..;15,30;11,50;..
+;Teatrid kokku;..objektiteatri lavastus;0;0;0;..;0;0;..
+;Teatrid kokku;..ooper;18;8;58;..;17,40;13,10;..
+;Teatrid kokku;..operett;4;1;23;..;9,50;7,10;..
+;Teatrid kokku;..sõna-, muusika- ja liikumislavastus;38;14;260;..;35,50;26,60;..
+;Teatrid kokku;..tragikomöödia;17;5;128;..;19,10;14,40;..
+;Teatrid kokku;Kokku;571;211;4 790;1 231;651,10;489,20;15,08
+;Teatrid kokku;Mitmeliigilavastus;56;23;417;118;46,50;34,90;17,42
+;Teatrid kokku;Muu lavastus - tsirkus;1;0;23;..;2,60;2;..
+;Teatrid kokku;Muusikalavastus;43;14;217;25;61,40;46,20;17,85
+;Teatrid kokku;Nuku- ja objektiteatri lavastus;31;5;221;92;10,80;8,10;5,95
+;Teatrid kokku;Sõnalavastus;382;140;3 609;938;482,10;362,30;14,75
+;Teatrid kokku;Tantsulavastus;58;29;303;40;47,60;35,80;15,23
+2022;Muud teatrid;..draama;160;63;1 505;..;189,20;140,20;..
+;Muud teatrid;..klassikaline tants;2;1;8;..;0,40;0,30;..
+;Muud teatrid;..komöödia;45;15;556;..;72,30;53,60;..
+;Muud teatrid;..muu;15;11;217;..;12,30;9,20;..
+;Muud teatrid;..muu muusikalavastus;7;5;36;..;4,60;3,40;..
+;Muud teatrid;..muu sõnalavastus;3;2;35;..;2,40;1,80;..
+;Muud teatrid;..muu tantsulavastus;1;1;6;..;0,40;0,30;..
+;Muud teatrid;..muusika- ja liikumislavastus;7;4;100;..;12,30;9,20;..
+;Muud teatrid;..muusikal;1;..;5;..;0,20;0,20;..
+;Muud teatrid;..nuku- ja objektiteatri lavastus;3;..;82;..;3,40;2,50;..
+;Muud teatrid;..nukulavastus;16;..;175;..;9,90;7,40;..
+;Muud teatrid;..nüüdistants;36;22;208;..;23,10;17,20;..
+;Muud teatrid;..objektiteatri lavastus;1;1;12;..;0,40;0,30;..
+;Muud teatrid;..ooper;2;2;12;..;4,90;3,60;..
+;Muud teatrid;..operett;0;0;0;..;0;0;..
+;Muud teatrid;..sõna-, muusika- ja liikumislavastus;45;18;295;..;23,20;17,20;..
+;Muud teatrid;..tragikomöödia;7;1;76;..;8,90;6,60;..
+;Muud teatrid;Kokku;354;148;3 414;1 526;384;284,70;15,11
+;Muud teatrid;Mitmeliigilavastus;67;33;612;155;47,90;35,50;13,63
+;Muud teatrid;Muu lavastus;3;2;86;..;16;11,90;..
+;Muud teatrid;Muusikalavastus;10;7;53;15;9,70;7,20;16,22
+;Muud teatrid;Nuku- ja objektiteatri lavastus;20;1;269;219;13,60;10,10;4,74
+;Muud teatrid;Sõnalavastus;215;81;2 172;992;272,80;202,20;16,66
+;Muud teatrid;Tantsulavastus;39;24;222;70;23,90;17,70;11,25
+;Riigi- ja linnateatrid;..draama;156;51;1 855;..;343,60;254,70;..
+;Riigi- ja linnateatrid;..klassikaline tants;17;6;152;..;66,10;49;..
+;Riigi- ja linnateatrid;..komöödia;41;11;461;..;105,40;78,10;..
+;Riigi- ja linnateatrid;..muu;7;3;54;..;7,10;5,30;..
+;Riigi- ja linnateatrid;..muu muusikalavastus;5;..;33;..;3,20;2,40;..
+;Riigi- ja linnateatrid;..muu tantsulavastus;0;0;0;..;0;0;..
+;Riigi- ja linnateatrid;..muusika- ja liikumislavastus;1;..;7;..;1,90;1,40;..
+;Riigi- ja linnateatrid;..muusikal;7;1;85;..;41,50;30,80;..
+;Riigi- ja linnateatrid;..nuku- ja objektiteatri lavastus;4;1;47;..;4,30;3,20;..
+;Riigi- ja linnateatrid;..nukulavastus;10;1;192;..;13,20;9,80;7,23
+;Riigi- ja linnateatrid;..nüüdistants;2;..;6;..;1,90;1,40;..
+;Riigi- ja linnateatrid;..objektiteatri lavastus;0;0;0;..;0;0;..
+;Riigi- ja linnateatrid;..ooper;19;5;98;..;45,30;33,60;..
+;Riigi- ja linnateatrid;..operett;5;1;36;..;19,10;14,10;..
+;Riigi- ja linnateatrid;..sõna-, muusika- ja liikumislavastus;20;10;231;..;51,80;38,40;..
+;Riigi- ja linnateatrid;..tragikomöödia;8;1;73;..;31,60;23,40;..
+;Riigi- ja linnateatrid;Kokku;302;91;3 330;311;736;545,70;15,55
+;Riigi- ja linnateatrid;Mitmeliigilavastus;28;13;292;16;60,90;45,10;11,72
+;Riigi- ja linnateatrid;Muu lavastus;0;0;0;..;0;0;..
+;Riigi- ja linnateatrid;Muusikalavastus;36;7;252;20;109;80,80;18,70
+;Riigi- ja linnateatrid;Nuku- ja objektiteatri lavastus;14;2;239;2;17,60;13;7,56
+;Riigi- ja linnateatrid;Sõnalavastus;205;63;2 389;272;480,60;356,30;15,50
+;Riigi- ja linnateatrid;Tantsulavastus;19;6;158;1;68;50,40;16,22
+;Teatrid kokku;..draama;316;114;3 360;..;532,80;395;..
+;Teatrid kokku;..klassikaline tants;19;7;160;..;66,40;49,30;..
+;Teatrid kokku;..komöödia;86;26;1 017;..;177,70;131,70;..
+;Teatrid kokku;..muu;22;14;271;..;19,40;14,40;8,97
+;Teatrid kokku;..muu muusikalavastus;12;5;69;..;7,80;5,80;..
+;Teatrid kokku;..muu sõnalavastus;3;2;35;..;2,40;1,80;..
+;Teatrid kokku;..muu tantsulavastus;1;1;6;..;0,40;0,30;..
+;Teatrid kokku;..muusika- ja liikumislavastus;8;4;107;..;14,30;10,60;..
+;Teatrid kokku;..muusikal;8;1;90;..;41,70;30,90;..
+;Teatrid kokku;..nuku- ja objektiteatri lavastus;7;1;129;..;7,70;5,70;..
+;Teatrid kokku;..nukulavastus;26;1;367;..;23,20;17,20;..
+;Teatrid kokku;..nüüdistants;38;22;214;..;25;18,50;..
+;Teatrid kokku;..objektiteatri lavastus;1;1;12;..;0,40;0,30;..
+;Teatrid kokku;..ooper;21;7;110;..;50,10;37,20;..
+;Teatrid kokku;..operett;5;1;36;..;19,10;14,10;..
+;Teatrid kokku;..sõna-, muusika- ja liikumislavastus;65;28;526;..;75;55,60;..
+;Teatrid kokku;..tragikomöödia;15;2;149;..;40,50;30;..
+;Teatrid kokku;Kokku;656;239;6 744;1 837;1 120;830,40;15,45
+;Teatrid kokku;Mitmeliigilavastus;95;46;904;171;108,80;80,60;12,12
+;Teatrid kokku;Muu lavastus - tsirkus;3;2;86;..;16;11,90;..
+;Teatrid kokku;Muusikalavastus;46;14;305;35;118,80;88,10;18,58
+;Teatrid kokku;Nuku- ja objektiteatri lavastus;34;3;508;221;31,20;23,10;6,47
+;Teatrid kokku;Sõnalavastus;420;144;4 561;1 264;753,40;558,50;15,80
+;Teatrid kokku;Tantsulavastus;58;30;380;71;91,90;68,10;15,82
+2023;Muud teatrid;..draama;163;64;1 552;..;198,60;145;..
+;Muud teatrid;..klassikaline tants;5;2;10;..;2,80;2,10;..
+;Muud teatrid;..komöödia;36;9;483;..;64,10;46,80;..
+;Muud teatrid;..muu;23;19;139;..;20,10;14,70;..
+;Muud teatrid;..muu muusikalavastus;8;6;56;..;14,30;10,40;..
+;Muud teatrid;..muu sõnalavastus;5;4;19;..;0,80;0,60;..
+;Muud teatrid;..muu tantsulavastus;1;1;22;..;1,40;1;..
+;Muud teatrid;..muusika- ja liikumislavastus;6;2;75;..;16,10;11,80;..
+;Muud teatrid;..muusikal;3;2;28;..;18,70;13,70;..
+;Muud teatrid;..nuku- ja objektiteatri lavastus;4;..;31;..;1,80;1,30;..
+;Muud teatrid;..nukulavastus;45;4;379;..;20,10;14,60;..
+;Muud teatrid;..nüüdistants;44;28;238;..;16,20;11,80;..
+;Muud teatrid;..objektiteatri lavastus;1;1;7;..;0,80;0,50;..
+;Muud teatrid;..ooper;4;3;18;..;8,70;6,30;..
+;Muud teatrid;..operett;0;0;0;..;0;0;..
+;Muud teatrid;..sõna-, muusika- ja liikumislavastus;53;28;330;..;31,70;23,10;..
+;Muud teatrid;..tragikomöödia;6;1;70;..;10,50;7,70;..
+;Muud teatrid;Kokku;409;174;3 521;1 716;434,50;317,10;16,60
+;Muud teatrid;Mitmeliigilavastus;82;49;544;178;67,90;49,60;21,46
+;Muud teatrid;Muu lavastus - tsirkus;3;0;64;48;12,20;8,90;..
+;Muud teatrid;Muusikalavastus;15;11;102;31;41,70;30,40;14,10
+;Muud teatrid;Nuku- ja objektiteatri lavastus;50;5;417;261;22,60;16,50;6,18
+;Muud teatrid;Sõnalavastus;210;78;2 124;1 060;274;200;18,08
+;Muud teatrid;Tantsulavastus;50;31;270;113;20,50;14,90;10,22
+;Riigi- ja linnateatrid;..draama;163;58;1 960;..;393,60;287,20;..
+;Riigi- ja linnateatrid;..klassikaline tants;18;4;157;..;82,40;60,10;..
+;Riigi- ja linnateatrid;..komöödia;41;8;562;..;151,60;110,60;..
+;Riigi- ja linnateatrid;..muu;7;2;90;..;18,90;13,80;..
+;Riigi- ja linnateatrid;..muu muusikalavastus;4;3;47;..;11;8;..
+;Riigi- ja linnateatrid;..muu sõnalavastus;0;0;0;..;0;0;..
+;Riigi- ja linnateatrid;..muu tantsulavastus;0;0;0;..;0;0;..
+;Riigi- ja linnateatrid;..muusika- ja liikumislavastus;1;..;3;..;1,10;0,80;..
+;Riigi- ja linnateatrid;..muusikal;9;2;107;..;55,20;40,30;..
+;Riigi- ja linnateatrid;..nuku- ja objektiteatri lavastus;3;1;71;..;5,10;3,80;..
+;Riigi- ja linnateatrid;..nukulavastus;6;..;137;..;9,70;7,10;..
+;Riigi- ja linnateatrid;..nüüdistants;2;2;14;..;1,70;1,20;..
+;Riigi- ja linnateatrid;..objektiteatri lavastus;1;1;8;..;0,50;0,40;..
+;Riigi- ja linnateatrid;..ooper;20;6;112;..;56,60;41,30;..
+;Riigi- ja linnateatrid;..operett;5;0;34;..;20,20;14,70;..
+;Riigi- ja linnateatrid;..sõna-, muusika- ja liikumislavastus;21;8;304;..;75,30;55;..
+;Riigi- ja linnateatrid;..tragikomöödia;5;1;61;..;10,60;7,70;..
+;Riigi- ja linnateatrid;Kokku;307;96;3 667;440;893,50;652,10;15,55
+;Riigi- ja linnateatrid;Mitmeliigilavastus;29;10;397;23;95,40;69,60;17,04
+;Riigi- ja linnateatrid;Muu lavastus - tsirkus;0;0;0;..;0;0;..
+;Riigi- ja linnateatrid;Muusikalavastus;38;11;300;13;143;104,40;20,54
+;Riigi- ja linnateatrid;Nuku- ja objektiteatri lavastus;10;2;216;36;15,30;11,20;7,82
+;Riigi- ja linnateatrid;Sõnalavastus;209;67;2 583;360;555,70;405,60;15,50
+;Riigi- ja linnateatrid;Tantsulavastus;20;6;171;8;84,10;61,40;18,64
+;Teatrid kokku;..draama;326;122;3 512;869;586,30;427,90;..
+;Teatrid kokku;..klassikaline tants;23;6;167;14;85,20;62,20;..
+;Teatrid kokku;..komöödia;77;17;1 045;478;215,70;157,40;..
+;Teatrid kokku;..muu;30;22;229;..;34,20;24,90;24,96
+;Teatrid kokku;..muu muusikalavastus;12;9;103;31;25,30;18,40;..
+;Teatrid kokku;..muu sõnalavastus;5;4;19;22;0,80;0,60;..
+;Teatrid kokku;..muu tantsulavastus;1;1;22;15;1,40;1;..
+;Teatrid kokku;..muusika- ja liikumislavastus;7;2;78;..;17,30;12,60;..
+;Teatrid kokku;..muusikal;12;4;135;4;74;54;..
+;Teatrid kokku;..nuku- ja objektiteatri lavastus;7;1;102;..;7;5,10;..
+;Teatrid kokku;..nukulavastus;51;4;516;..;29,70;21,70;..
+;Teatrid kokku;..nüüdistants;46;30;252;92;17,90;13,10;..
+;Teatrid kokku;..objektiteatri lavastus;2;2;15;..;1,30;0,90;..
+;Teatrid kokku;..ooper;24;9;130;9;65,30;47,60;..
+;Teatrid kokku;..operett;5;0;34;0;20,20;14,70;..
+;Teatrid kokku;..sõna-, muusika- ja liikumislavastus;74;35;634;..;113,30;82,70;..
+;Teatrid kokku;..tragikomöödia;11;2;131;51;21,10;15,40;..
+;Teatrid kokku;Kokku;716;270;7 188;2 156;1 328;969,10;17,38
+;Teatrid kokku;Mitmeliigilavastus;111;59;941;226;164,80;120,20;18,27
+;Teatrid kokku;Muu lavastus - tsirkus;3;0;64;..;12,20;8,90;..
+;Teatrid kokku;Muusikalavastus;53;22;402;44;184,70;134,80;20,12
+;Teatrid kokku;Nuku- ja objektiteatri lavastus;60;7;633;297;37,90;27,70;6,47
+;Teatrid kokku;Sõnalavastus;419;145;4 707;1 420;823,90;601,30;17,29
+;Teatrid kokku;Tantsulavastus;70;37;441;121;104,60;76,30;17,53
